@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "image_url": "images/matrix_rooftop.webp",
+    "question": "Which reality-bending sci-fi film features this iconic slow-motion bullet-dodging rooftop scene?",
+    "correct_answer": "The Matrix",
+    "options": ["The Matrix", "Inception", "Dark City", "Equilibrium"]
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "image_url": "images/titanic_bow.webp",
+    "question": "From which romantic epic is this famous 'I'm flying!' ship bow scene?",
+    "correct_answer": "Titanic",
+    "options": ["Titanic", "Pearl Harbor", "The Notebook", "Cast Away"]
+  },
+  {
+    "id": 3,
+    "type": "image",
+    "image_url": "images/lotr_bridge.webp",
+    "question": "Which fantasy film features this dramatic showdown on a crumbling stone bridge?",
+    "correct_answer": "The Lord of the Rings: The Fellowship of the Ring",
+    "options": [
+      "The Chronicles of Narnia",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Harry Potter and the Sorcerer's Stone",
+      "Eragon"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "image_url": "images/lion_king_pride_rock.webp",
+    "question": "Which animated Disney classic features this legendary presentation scene on Pride Rock?",
+    "correct_answer": "The Lion King",
+    "options": ["Tarzan", "Aladdin", "The Lion King", "The Jungle Book"]
+  },
+  {
+    "id": 5,
+    "type": "image",
+    "image_url": "images/inception_top.webp",
+    "question": "This mysterious spinning top serves as a 'totem' in which mind-bending heist movie?",
+    "correct_answer": "Inception",
+    "options": ["Interstellar", "Inception", "The Prestige", "Shutter Island"]
+  },
+  {
+    "id": 6,
+    "type": "image",
+    "image_url": "images/star_wars_cloud_city.webp",
+    "question": "In which cinematic installment does a hero discover a shocking truth about his lineage during this battle?",
+    "correct_answer": "Star Wars: Episode V - The Empire Strikes Back",
+    "options": [
+      "Star Wars: Episode IV - A New Hope",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Dune"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "image",
+    "image_url": "images/shining_door.webp",
+    "question": "Which psychological horror classic includes this terrifying broken bathroom door moment?",
+    "correct_answer": "The Shining",
+    "options": ["Psycho", "The Shining", "A Nightmare on Elm Street", "The Misery"]
+  },
+  {
+    "id": 8,
+    "type": "image",
+    "image_url": "images/pulp_fiction_suits.webp",
+    "question": "Which Quentin Tarantino masterpiece features these two hitmen in a standoff?",
+    "correct_answer": "Pulp Fiction",
+    "options": ["Reservoir Dogs", "Pulp Fiction", "Goodfellas", "Kill Bill"]
+  },
+  {
+    "id": 9,
+    "type": "image",
+    "image_url": "images/jurassic_park_rex.webp",
+    "question": "Which 1993 blockbuster features this chaotic theme park rainstorm escape?",
+    "correct_answer": "Jurassic Park",
+    "options": ["King Kong", "Jurassic Park", "The Lost World", "Godzilla"]
+  },
+  {
+    "id": 10,
+    "type": "image",
+    "image_url": "images/et_moon.webp",
+    "question": "Which beloved Steven Spielberg film features this spectacular bicycle silhouette across the moon?",
+    "correct_answer": "E.T. the Extra-Terrestrial",
+    "options": ["Close Encounters of the Third Kind", "Super 8", "E.T. the Extra-Terrestrial", "Flight of the Navigator"]
+  }
+]
