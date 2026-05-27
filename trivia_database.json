@@ -25,8 +25,7 @@
       "The Chronicles of Narnia",
       "The Lord of the Rings: The Fellowship of the Ring",
       "Harry Potter and the Sorcerer's Stone",
-      "Eragon"
-    ]
+      "Eragon"]
   },
   {
     "id": 4,
@@ -88,5 +87,53 @@
     "question": "Which beloved Steven Spielberg film features this spectacular bicycle silhouette across the moon?",
     "correct_answer": "E.T. the Extra-Terrestrial",
     "options": ["Close Encounters of the Third Kind", "Super 8", "E.T. the Extra-Terrestrial", "Flight of the Navigator"]
+  },
+  {
+    "id": 11,
+    "type": "image",
+    "image_url": "images/home_alone.webp",
+    "question": "Which holiday comedy features this classic scene of a left-behind boy screaming into the mirror after applying aftershave?",
+    "correct_answer": "Home Alone",
+    "options": ["Home Alone", "Elf", "The Santa Clause", "Jingle All the Way"]
+  },
+  {
+    "id": 12,
+    "type": "image",
+    "image_url": "images/dark_knight_interrep.webp",
+    "question": "This tense, dimly-lit police interrogation sequence is from which legendary superhero movie?",
+    "correct_answer": "The Dark Knight",
+    "options": ["Batman Begins", "The Dark Knight", "The Dark Knight Rises", "The Batman"]
+  },
+  {
+    "id": 13,
+    "type": "image",
+    "image_url": "images/spiderman_kiss.webp",
+    "question": "Which 2000s comic-book adaptation features this unforgettable upside-down kiss in the pouring rain?",
+    "correct_answer": "Spider-Man",
+    "options": ["The Amazing Spider-Man", "Spider-Man", "Spider-Man 2", "Superman"]
+  },
+  {
+    "id": 14,
+    "type": "image",
+    "image_url": "images/gladiator_wheat.webp",
+    "question": "A sweeping hand touching a field of golden wheat is the poetic visual theme of which historical Roman epic?",
+    "correct_answer": "Gladiator",
+    "options": ["Spartacus", "Troy", "Gladiator", "Kingdom of Heaven"]
+  },
+  {
+    "id": 15,
+    "type": "image",
+    "image_url": "images/avengers_assemble.webp",
+    "question": "This continuous, circular camera shot panning around a united superhero team during a city invasion defined which 2012 film?",
+    "correct_answer": "The Avengers",
+    "options": ["The Avengers", "Avengers: Age of Ultron", "Justice League", "Iron Man 3"]
+  },
+  {
+    "id": 16,
+    "type": "image",
+    "image_url": "images/avatar_pandora.webp",
+    "question": "James Cameron introduced audiences to this glowing, bioluminescent alien forest landscape in which groundbreaking 2009 film?",
+    "correct_answer": "Avatar",
+    "options": ["Avatar", "Star Trek", "Guardians of the Galaxy", "Interstellar"]
   }
 ]
