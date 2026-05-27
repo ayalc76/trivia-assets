@@ -135,5 +135,309 @@
     "question": "James Cameron introduced audiences to this glowing, bioluminescent alien forest landscape in which groundbreaking 2009 film?",
     "correct_answer": "Avatar",
     "options": ["Avatar", "Star Trek", "Guardians of the Galaxy", "Interstellar"]
+  },
+  {
+    "id": 17,
+    "type": "image",
+    "image_url": "images/truman_show_exit.webp",
+    "question": "Which satirical comedy-drama features this striking exit scene, where a man takes a final bow before walking through a door in the sky?",
+    "correct_answer": "The Truman Show",
+    "options": ["The Truman Show", "Liar Liar", "Eternal Sunshine of the Spotless Mind", "Pleasantville"]
+  },
+  {
+    "id": 18,
+    "type": "image",
+    "image_url": "images/forrest_gump_bench.webp",
+    "question": "Sitting on a park bench waiting for a bus with a box of chocolates is the framing scene of which heartwarming epic?",
+    "correct_answer": "Forrest Gump",
+    "options": ["Cast Away", "Forrest Gump", "The Green Mile", "Rain Man"]
+  },
+  {
+    "id": 19,
+    "type": "image",
+    "image_url": "images/karate_kid_kick.webp",
+    "question": "This famous balanced 'crane kick' martial arts tournament finale belongs to which 1980s sports classic?",
+    "correct_answer": "The Karate Kid",
+    "options": ["Rocky", "The Karate Kid", "Bloodsport", "Cobra Kai"]
+  },
+  {
+    "id": 20,
+    "type": "image",
+    "image_url": "images/narnia_lamppost.webp",
+    "question": "Finding a solitary iron lamppost burning in a snow-covered forest marks a child's arrival into which magical fantasy realm?",
+    "correct_answer": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "options": ["Harry Potter", "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "The Lord of the Rings", "Bridge to Terabithia"]
+  },
+  {
+    "id": 21,
+    "type": "image",
+    "image_url": "images/psycho_shower.webp",
+    "question": "Alfred Hitchcock's terrifying, screeching-violin shower curtain scene is from which 1960 horror masterpiece?",
+    "correct_answer": "Psycho",
+    "options": ["Psycho", "The Birds", "Vertigo", "Halloween"]
+  },
+  {
+    "id": 22,
+    "type": "image",
+    "image_url": "images/shawshank_rain.webp",
+    "question": "Raising your arms to the sky in a downpour after escaping a prison tunnel is the iconic poster image of which critically acclaimed movie?",
+    "correct_answer": "The Shawshank Redemption",
+    "options": ["The Green Mile", "The Shawshank Redemption", "Escape from Alcatraz", "Cool Hand Luke"]
+  },
+  {
+    "id": 23,
+    "type": "image",
+    "image_url": "images/fight_club_buildings.webp",
+    "question": "An insomniac office worker first meets a mysterious soap salesman on an airplane in which 1999 psychological cult classic?",
+    "correct_answer": "Fight Club",
+    "options": ["American Psycho", "Fight Club", "The Matrix", "Seven"]
+  },
+  {
+    "id": 24,
+    "type": "image",
+    "image_url": "images/whiplash_drums.webp",
+    "question": "This high-stress, sweat-and-blood-soaked jazz drumming sequence belongs to which intense 2014 musical drama?",
+    "correct_answer": "Whiplash",
+    "options": ["La La Land", "Whiplash", "Black Swan", "The Sound of Metal"]
+  },
+  {
+    "id": 25,
+    "type": "image",
+    "image_url": "images/wolf_wall_street_mic.webp",
+    "question": "Which chaotic, high-energy stockbroker biographical comedy-drama features this megaphone and microphone speech scene?",
+    "correct_answer": "The Wolf of Wall Street",
+    "options": ["The Big Short", "Wall Street", "The Wolf of Wall Street", "Boiler Room"]
+  },
+  {
+    "id": 26,
+    "type": "image",
+    "image_url": "images/wizard_of_oz_road.webp",
+    "question": "Skipping arm-in-arm down a yellow brick road towards a distant green city is the fantasy hallmark of which 1939 classic?",
+    "correct_answer": "The Wizard of Oz",
+    "options": ["The Wizard of Oz", "Alice in Wonderland", "Wicked", "Peter Pan"]
+  },
+  {
+    "id": 27,
+    "type": "image",
+    "image_url": "images/terminator_desk.webp",
+    "question": "Wearing dark sunglasses at a police station reception desk right before declaring 'I'll be back' is the signature scene of which 1984 sci-fi action movie?",
+    "correct_answer": "The Terminator",
+    "options": ["The Terminator", "RoboCop", "Total Recall", "Predator"]
+  },
+  {
+    "id": 28,
+    "type": "image",
+    "image_url": "images/godfather_cat.webp",
+    "question": "Gently stroking a cat in a dark study while fielding requests on the day of his daughter's wedding introduces the powerful patriarch of which cinema trilogy?",
+    "correct_answer": "The Godfather",
+    "options": ["Goodfellas", "The Godfather", "Scarface", "The Irishman"]
+  },
+  {
+    "id": 29,
+    "type": "image",
+    "image_url": "images/will_hunting_bench.webp",
+    "question": "A breakthrough, deeply emotional conversation on a Boston public park bench between a therapist and a young math genius happens in which 1997 drama?",
+    "correct_answer": "Good Will Hunting",
+    "options": ["Dead Poets Society", "Good Will Hunting", "A Beautiful Mind", "The Social Network"]
+  },
+  {
+    "id": 30,
+    "type": "image",
+    "image_url": "images/jack_sparrow_dock.webp",
+    "question": "Casually stepping straight off the mast of a completely submerged, sinking small sailboat directly onto a wooden pier introduces which eccentric captain?",
+    "correct_answer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "options": ["Pirates of the Caribbean: The Curse of the Black Pearl", "Peter Pan", "Master and Commander", "Treasure Island"]
+  },
+  {
+    "id": 31,
+    "type": "image",
+    "image_url": "images/martian_potatoes.webp",
+    "question": "Using resourcefulness to engineer a temporary potato farm inside a synthetic habitat space dome is the survival story of which 2015 film?",
+    "correct_answer": "The Martian",
+    "options": ["Interstellar", "The Martian", "Gravity", "Ad Astra"]
+  },
+  {
+    "id": 32,
+    "type": "image",
+    "image_url": "images/bladerunner_desert.webp",
+    "question": "An officer navigating a vast, dust-swept orange radioactive desert containing giant ruins marks a pivotal search in which 2017 neo-noir sci-fi sequel?",
+    "correct_answer": "Blade Runner 2049",
+    "options": ["Dune", "Blade Runner 2049", "Mad Max: Fury Road", "The Creator"]
+  },
+  {
+    "id": 33,
+    "type": "image",
+    "image_url": "images/parasite_table.webp",
+    "question": "Hiding silently beneath a living room coffee table while the wealthy homeowners fall asleep above them is a nerve-wracking sequence from which Oscar-winning dark comedy thriller?",
+    "correct_answer": "Parasite",
+    "options": ["Parasite", "Knives Out", "Oldboy", "The Handmaiden"]
+  },
+  {
+    "id": 34,
+    "type": "image",
+    "image_url": "images/skyfall_london.webp",
+    "question": "Standing tall on a rooftop looking out across a cloudy, historical London skyline sets up the dramatic themes of which 2012 secret agent entry?",
+    "correct_answer": "Skyfall",
+    "options": ["Casino Royale", "Skyfall", "Spectre", "Mission: Impossible - Fallout"]
+  },
+  {
+    "id": 35,
+    "type": "image",
+    "image_url": "images/arrival_glass.webp",
+    "question": "Using a handheld whiteboard to write out primitive words to communicate with giant heptapod aliens through a transparent shield is from which intelligent 2016 sci-fi movie?",
+    "correct_answer": "Arrival",
+    "options": ["Contact", "Arrival", "Interstellar", "Close Encounters of the Third Kind"]
+  },
+  {
+    "id": 36,
+    "type": "image",
+    "image_url": "images/knives_out_wheel.webp",
+    "question": "A southern-drawl detective interrogating suspects sitting in front of a giant, circular array of pointed daggers is from which modern whodunit mystery?",
+    "correct_answer": "Knives Out",
+    "options": ["Murder on the Orient Express", "Knives Out", "Glass Onion", "Death on the Nile"]
+  },
+  {
+    "id": 37,
+    "type": "image",
+    "image_url": "images/basterds_milk.webp",
+    "question": "An intense interrogation inside a French dairy farmhouse begins with a ruthless SS Colonel calmly requesting a glass of fresh milk in which 2009 Quentin Tarantino film?",
+    "correct_answer": "Inglourious Basterds",
+    "options": ["Inglourious Basterds", "Django Unchained", "Fury", "The Hateful Eight"]
+  },
+  {
+    "id": 38,
+    "type": "image",
+    "image_url": "images/madmax_storm.webp",
+    "question": "A high-octane convoy of modified vehicles rushing directly into a towering, electrical sandstorm defines the visual style of which 2015 action masterpiece?",
+    "correct_answer": "Mad Max: Fury Road",
+    "options": ["Waterworld", "Mad Max: Fury Road", "The Book of Eli", "Dune"]
+  },
+  {
+    "id": 39,
+    "type": "image",
+    "image_url": "images/lalaland_dance.webp",
+    "question": "A modern jazz pianist and an aspiring actress share a stylized silhouette dance against a twilight purple sky in which 2016 romantic musical?",
+    "correct_answer": "La La Land",
+    "options": ["La La Land", "West Side Story", "The Greatest Showman", "Singin' in the Rain"]
+  },
+  {
+    "id": 40,
+    "type": "image",
+    "image_url": "images/sixthsense_bed.webp",
+    "question": "A terrified young boy huddling beneath his bed blankets whispers the chilling words 'I see dead people' in which 1999 psychological supernatural thriller?",
+    "correct_answer": "The Sixth Sense",
+    "options": ["The Others", "The Sixth Sense", "Signs", "Unbreakable"]
+  },
+  {
+    "id": 41,
+    "type": "image",
+    "image_url": "images/dunkirk_beach.webp",
+    "question": "Thousands of silent, anxious World War II soldiers standing in neat lines on a foam-swept beach waiting for rescue is the centerpiece of which 2017 historical film?",
+    "correct_answer": "Dunkirk",
+    "options": ["Saving Private Ryan", "Dunkirk", "1917", "Hacksaw Ridge"]
+  },
+  {
+    "id": 42,
+    "type": "image",
+    "image_url": "images/joker_stairs.webp",
+    "question": "An unstable, newly transformed criminal mastermind dancing ecstatically down a long flight of concrete city steps in a bright suit is from which 2019 psychological drama?",
+    "correct_answer": "Joker",
+    "options": ["The Dark Knight", "Joker", "The Batman", "Suicide Squad"]
+  },
+  {
+    "id": 43,
+    "type": "image",
+    "image_url": "images/castaway_wilson.webp",
+    "question": "A marooned systems analyst coping with isolation by painting a bloody face onto a volleyball name 'Wilson' is the survival plot of which 2000 film?",
+    "correct_answer": "Cast Away",
+    "options": ["Cast Away", "The Martian", "Life of Pi", "Into the Wild"]
+  },
+  {
+    "id": 44,
+    "type": "image",
+    "image_url": "images/spirited_away_train.webp",
+    "question": "A young girl riding a silent, phantom train over a vast expanse of shallow ocean water alongside a transparent shadow entity is a landmark scene from which animated masterpiece?",
+    "correct_answer": "Spirited Away",
+    "options": ["My Neighbor Totoro", "Spirited Away", "Howl's Moving Castle", "Princess Mononoke"]
+  },
+  {
+    "id": 45,
+    "type": "image",
+    "image_url": "images/grand_budapest.webp",
+    "question": "Which meticulously symmetrical Wes Anderson comedy features a luxury hotel lobby boy hiding among stacks of pink Mendl's pastry boxes?",
+    "correct_answer": "The Grand Budapest Hotel",
+    "options": ["The Grand Budapest Hotel", "The French Dispatch", "Moonrise Kingdom", "The Royal Tenenbaums"]
+  },
+  {
+    "id": 46,
+    "type": "image",
+    "image_url": "images/no_country.webp",
+    "question": "A terrifying hitman forces a nervous gas station clerk to call a coin toss for his life in which intense 2007 neo-western thriller?",
+    "correct_answer": "No Country for Old Men",
+    "options": ["Fargo", "No Country for Old Men", "There Will Be Blood", "Sicario"]
+  },
+  {
+    "id": 47,
+    "type": "image",
+    "image_url": "images/scott_pilgrim.webp",
+    "question": "Comic-book style sound effects and a glowing bass guitar define this explosive Battle of the Bands scene from which 2010 cult action-comedy?",
+    "correct_answer": "Scott Pilgrim vs. the World",
+    "options": ["Scott Pilgrim vs. the World", "Kick-Ass", "Baby Driver", "Zombieland"]
+  },
+  {
+    "id": 48,
+    "type": "image",
+    "image_url": "images/django_table.webp",
+    "question": "Which 2012 Quentin Tarantino western features a highly intense dinner table speech where a plantation owner delivers a monologue while smashing his hand on the table?",
+    "correct_answer": "Django Unchained",
+    "options": ["Inglourious Basterds", "The Hateful Eight", "Django Unchained", "The Revenant"]
+  },
+  {
+    "id": 49,
+    "type": "image",
+    "image_url": "images/baby_driver_wheel.webp",
+    "question": "A getaway driver hyper-focuses on his iPod playlist while waiting behind the steering wheel in the opening sequence of which 2017 action film?",
+    "correct_answer": "Baby Driver",
+    "options": ["Drive", "Baby Driver", "Fast & Furious", "The Transporter"]
+  },
+  {
+    "id": 50,
+    "type": "image",
+    "image_url": "images/alien_dinner.webp",
+    "question": "A regular crew dinner suddenly turns into a historical sci-fi horror nightmare in which groundbreaking 1979 Ridley Scott masterpiece?",
+    "correct_answer": "Alien",
+    "options": ["Alien", "Aliens", "The Thing", "Prometheus"]
+  },
+  {
+    "id": 51,
+    "type": "image",
+    "image_url": "images/usual_suspects_lineup.webp",
+    "question": "Five criminals are brought together for a routine, seemingly random police lineup in which iconic 1995 twist-ending mystery thriller?",
+    "correct_answer": "The Usual Suspects",
+    "options": ["Reservoir Dogs", "The Usual Suspects", "Se7en", "L.A. Confidential"]
+  },
+  {
+    "id": 52,
+    "type": "image",
+    "image_url": "images/1917_run.webp",
+    "question": "A young British soldier sprints horizontally across a charging trench line while explosions erupt behind him in which 2019 single-take style war epic?",
+    "correct_answer": "1917",
+    "options": ["Saving Private Ryan", "1917", "Dunkirk", "All Quiet on the Western Front"]
+  },
+  {
+    "id": 53,
+    "type": "image",
+    "image_url": "images/us_driveway.webp",
+    "question": "A family is horrified to find a silent group of four lookalikes holding hands in their driveway in which 2019 Jordan Peele psychological horror film?",
+    "correct_answer": "Us",
+    "options": ["Get Out", "Us", "Nope", "Midsommar"]
+  },
+  {
+    "id": 54,
+    "type": "image",
+    "image_url": "images/spiderverse_leap.webp",
+    "question": "A teenager takes a dramatic 'leap of faith,' falling upside-down against a glistening neon skyscraper skyline in which stylized 2018 animated film?",
+    "correct_answer": "Spider-Man: Into the Spider-Verse",
+    "options": ["Spider-Man: Into the Spider-Verse", "Spider-Man: Across the Spider-Verse", "The Lego Movie", "Big Hero 6"]
   }
 ]
