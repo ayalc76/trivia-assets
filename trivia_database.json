@@ -493,5 +493,307 @@
     "question": "A teenager takes a dramatic 'leap of faith,' falling upside-down against a glistening neon skyscraper skyline in which stylized 2018 animated film?",
     "correct_answer": "Spider-Man: Into the Spider-Verse",
     "options": ["Spider-Man: Into the Spider-Verse", "Spider-Man: Across the Spider-Verse", "The Lego Movie", "Big Hero 6"]
+  },
+  {
+    "id": 55,
+    "type": "image",
+    "image_url": "images/collage_friends.webp",
+    "difficulty": "Easy",
+    "question": "Which iconic 1990s sitcom features this central cast of characters often found hanging out at the Central Perk coffee shop?",
+    "correct_answer": "Friends",
+    "options": ["Seinfeld", "Friends", "Frasier", "Cheers"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 56,
+    "type": "image",
+    "image_url": "images/collage_the_office.webp",
+    "difficulty": "Easy",
+    "question": "Identify the popular mockumentary workplace comedy series that follows the daily lives of these Scranton paper company employees.",
+    "correct_answer": "The Office (US)",
+    "options": ["The Office (US)", "Parks and Recreation", "Brooklyn Nine-Nine", "Superstore"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 57,
+    "type": "image",
+    "image_url": "images/collage_breaking_bad.webp",
+    "difficulty": "Medium",
+    "question": "Which critically acclaimed crime drama chronicles the rise of a chemistry teacher and his former student in the criminal underworld?",
+    "correct_answer": "Breaking Bad",
+    "options": ["Better Call Saul", "Ozark", "Breaking Bad", "The Wire"],
+    "categories": ["TV Show", "Drama", "Crime"]
+  },
+  {
+    "id": 58,
+    "type": "image",
+    "image_url": "images/collage_stranger_things.webp",
+    "difficulty": "Medium",
+    "question": "This core cast faces supernatural forces and government conspiracies in the fictional town of Hawkins during which hit sci-fi series?",
+    "correct_answer": "Stranger Things",
+    "options": ["Stranger Things", "Dark", "The X-Files", "Fringe"],
+    "categories": ["TV Show", "Sci-Fi", "Drama"]
+  },
+  {
+    "id": 59,
+    "type": "image",
+    "image_url": "images/collage_game_of_thrones.webp",
+    "difficulty": "Medium",
+    "question": "Which epic fantasy drama series tracks noble families fighting for control over the Iron Throne of Westeros?",
+    "correct_answer": "Game of Thrones",
+    "options": ["The Witcher", "Game of Thrones", "House of the Dragon", "The Lord of the Rings: The Rings of Power"],
+    "categories": ["TV Show", "Fantasy", "Drama"]
+  },
+  {
+    "id": 60,
+    "type": "image",
+    "image_url": "images/collage_seinfeld.webp",
+    "difficulty": "Easy",
+    "question": "Four cynical singles navigate the trivial absurdities of daily New York City life in which legendary 'show about nothing'?",
+    "correct_answer": "Seinfeld",
+    "options": ["Friends", "Frasier", "Seinfeld", "Curb Your Enthusiasm"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 61,
+    "type": "image",
+    "image_url": "images/collage_parks_and_rec.webp",
+    "difficulty": "Medium",
+    "question": "This passionate group of quirky government employees works in the Parks and Recreation department of which fictional Indiana town?",
+    "correct_answer": "Parks and Recreation",
+    "options": ["The Office (US)", "Parks and Recreation", "Community", "30 Rock"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 62,
+    "type": "image",
+    "image_url": "images/collage_brooklyn_nine_nine.webp",
+    "difficulty": "Easy",
+    "question": "An eccentric but talented detective clashes with his strict new captain in which police procedural comedy series?",
+    "correct_answer": "Brooklyn Nine-Nine",
+    "options": ["Brooklyn Nine-Nine", "Reno 911!", "The Office (US)", "Castle"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 63,
+    "type": "image",
+    "image_url": "images/collage_sherlock.webp",
+    "difficulty": "Hard",
+    "question": "This modern-day reimagining of Sir Arthur Conan Doyle's classic detective stories stars which British mystery-drama series cast?",
+    "correct_answer": "Sherlock (BBC)",
+    "options": ["Elementary", "Sherlock (BBC)", "Luther", "Broadchurch"],
+    "categories": ["TV Show", "Mystery", "Drama"]
+  },
+  {
+    "id": 64,
+    "type": "image",
+    "image_url": "images/collage_the_crown.webp",
+    "difficulty": "Hard",
+    "question": "Which historical drama chronicles the political rivalries, romances, and personal lives of the British Royal Family across several decades?",
+    "correct_answer": "The Crown",
+    "options": ["Downton Abbey", "The Crown", "The Gilded Age", "Victoria"],
+    "categories": ["TV Show", "Drama", "History"]
+  },
+  {
+    "id": 65,
+    "type": "image",
+    "image_url": "images/collage_doctor_who.webp",
+    "difficulty": "Hard",
+    "question": "An eccentric alien traveler explores time and space in a blue police box alongside various companions in which long-running British sci-fi series?",
+    "correct_answer": "Doctor Who",
+    "options": ["Doctor Who", "Torchwood", "Star Trek", "The Twilight Zone"],
+    "categories": ["TV Show", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 66,
+    "type": "image",
+    "image_url": "images/collage_greys_anatomy.webp",
+    "difficulty": "Easy",
+    "question": "Which long-running medical drama follows the personal and professional lives of surgical interns, residents, and attendings at Seattle Grace Hospital?",
+    "correct_answer": "Grey's Anatomy",
+    "options": ["ER", "Grey's Anatomy", "House", "Scrubs"],
+    "categories": ["TV Show", "Drama", "Medical"]
+  },
+  {
+    "id": 67,
+    "type": "image",
+    "image_url": "images/collage_avatar_airbender.webp",
+    "difficulty": "Hard",
+    "question": "A young boy must master four elemental powers to defeat the tyrannical Fire Nation and restore global harmony in which acclaimed animated masterpiece?",
+    "correct_answer": "Avatar: The Last Airbender",
+    "options": ["The Legend of Korra", "Avatar: The Last Airbender", "Naruto", "Fullmetal Alchemist"],
+    "categories": ["TV Show", "Animation", "Fantasy", "Action"]
+  },
+  {
+    "id": 68,
+    "type": "image",
+    "image_url": "images/collage_westworld.webp",
+    "difficulty": "Hard",
+    "question": "Android hosts in a futuristic, Wild West-themed amusement park begin gaining dark self-awareness in which mind-bending sci-fi drama?",
+    "correct_answer": "Westworld",
+    "options": ["Westworld", "Altered Carbon", "The Absolute", "Humans"],
+    "categories": ["TV Show", "Sci-Fi", "Drama", "Mystery"]
+  },
+  {
+    "id": 69,
+    "type": "image",
+    "image_url": "images/collage_house.webp",
+    "difficulty": "Easy",
+    "question": "An antisocial, pill-popping medical genius leads a team of diagnosticians to solve bizarre medical mysteries in which popular procedural drama?",
+    "correct_answer": "House",
+    "options": ["The Good Doctor", "House", "Grey's Anatomy", "Chicago Med"],
+    "categories": ["TV Show", "Drama", "Medical"]
+  },
+  {
+    "id": 70,
+    "type": "image",
+    "image_url": "images/collage_x_files.webp",
+    "difficulty": "Medium",
+    "question": "Two FBI agents investigate marginalized, paranormal cases involving alien conspiracies and cryptids in which classic 1990s sci-fi thriller series?",
+    "correct_answer": "The X-Files",
+    "options": ["Fringe", "Twin Peaks", "The X-Files", "Supernatural"],
+    "categories": ["TV Show", "Sci-Fi", "Mystery"]
+  },
+  {
+    "id": 71,
+    "type": "image",
+    "image_url": "images/collage_30_rock.webp",
+    "difficulty": "Medium",
+    "question": "Which satirical workplace sitcom, created by Tina Fey, goes behind the scenes of a chaotic, live sketch-comedy television show in New York City?",
+    "correct_answer": "30 Rock",
+    "options": ["Parks and Recreation", "30 Rock", "Veep", "Arrested Development"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 72,
+    "type": "image",
+    "image_url": "images/collage_the_mandalorian.webp",
+    "difficulty": "Hard",
+    "question": "A lone bounty hunter travels the outer reaches of a distant galaxy to protect a mysterious, powerful infant child in which hit space-western series?",
+    "correct_answer": "The Mandalorian",
+    "options": ["The Mandalorian", "Andor", "The Book of Boba Fett", "Obi-Wan Kenobi"],
+    "categories": ["TV Show", "Sci-Fi", "Action", "Adventure"]
+  },
+  {
+    "id": 73,
+    "type": "image",
+    "image_url": "images/collage_lucifer.webp",
+    "difficulty": "Medium",
+    "question": "Bored with his life in hell, the Lord of Darkness abandons his throne to run an upscale nightclub and assist the LAPD in which urban fantasy crime series?",
+    "correct_answer": "Lucifer",
+    "options": ["Supernatural", "Lucifer", "Grimm", "Constantine"],
+    "categories": ["TV Show", "Fantasy", "Crime", "Drama"]
+  },
+  {
+    "id": 74,
+    "type": "image",
+    "image_url": "images/collage_arrested_development.webp",
+    "difficulty": "Hard",
+    "question": "A level-headed son tries to keep his highly dysfunctional, formerly wealthy family together after his father is imprisoned in which cult classic comedy?",
+    "correct_answer": "Arrested Development",
+    "options": ["Schitt's Creek", "Arrested Development", "The Office (US)", "Modern Family"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  JSON
+[
+  {
+    "id": 75,
+    "type": "image",
+    "image_url": "images/collage_the_godfather.webp",
+    "difficulty": "Easy",
+    "question": "Which legendary crime trilogy features this exceptional ensemble cast navigating the loyalty, violence, and betrayal of an Italian-American mafia family?",
+    "correct_answer": "The Godfather",
+    "options": ["Goodfellas", "The Godfather", "Scarface", "Casino"],
+    "categories": ["Movie", "Crime", "Drama"]
+  },
+  {
+    "id": 76,
+    "type": "image",
+    "image_url": "images/collage_star_wars.webp",
+    "difficulty": "Easy",
+    "question": "This iconic assembly of heroes and villains kicked off a historic space opera saga in 1977. Name the original film.",
+    "correct_answer": "Star Wars: Episode IV - A New Hope",
+    "options": ["Star Wars: Episode IV - A New Hope", "Star Wars: Episode V - The Empire Strikes Back", "Star Trek", "Dune"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 77,
+    "type": "image",
+    "image_url": "images/collage_pulp_fiction.webp",
+    "difficulty": "Easy",
+    "question": "Which 1994 Quentin Tarantino masterpiece weaves together the interconnected stories of these eccentric Los Angeles criminals?",
+    "correct_answer": "Pulp Fiction",
+    "options": ["Reservoir Dogs", "Pulp Fiction", "Jackie Brown", "Kill Bill"],
+    "categories": ["Movie", "Crime", "Indie"]
+  },
+  {
+    "id": 78,
+    "type": "image",
+    "image_url": "images/collage_titanic.webp",
+    "difficulty": "Easy",
+    "question": "These actors portray the ill-fated passengers and crew on a tragic maiden voyage across the Atlantic in which 1997 romantic epic?",
+    "correct_answer": "Titanic",
+    "options": ["Titanic", "Pearl Harbor", "The Notebook", "Amistad"],
+    "categories": ["Movie", "Romance", "Drama"]
+  },
+  {
+    "id": 79,
+    "type": "image",
+    "image_url": "images/collage_lord_of_the_rings.webp",
+    "difficulty": "Medium",
+    "question": "This core fellowship unites to destroy a corrupting ring and defeat a dark lord in which monumental fantasy film?",
+    "correct_answer": "The Lord of the Rings",
+    "options": ["The Chronicles of Narnia", "The Lord of the Rings", "Harry Potter", "Eragon"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 80,
+    "type": "image",
+    "image_url": "images/collage_jurassic_park.webp",
+    "difficulty": "Medium",
+    "question": "A team of scientists must fight for survival when cloned prehistoric creatures break containment in which 1993 sci-fi blockbuster?",
+    "correct_answer": "Jurassic Park",
+    "options": ["King Kong", "Jurassic Park", "The Lost World", "Godzilla"],
+    "categories": ["Movie", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 81,
+    "type": "image",
+    "image_url": "images/collage_forrest_gump.webp",
+    "difficulty": "Easy",
+    "question": "Which heartwarming 1994 epic follows the extraordinary life journey of a kind-hearted Alabama man who witnesses defining historical events?",
+    "correct_answer": "Forrest Gump",
+    "options": ["Cast Away", "Forrest Gump", "The Green Mile", "Rain Man"],
+    "categories": ["Movie", "Comedy", "Drama"]
+  },
+  {
+    "id": 82,
+    "type": "image",
+    "image_url": "images/collage_the_dark_knight.webp",
+    "difficulty": "Hard",
+    "question": "A vigilante hero, a chaotic anarchist villain, and a tragic district attorney collide in Gotham City during which 2008 superhero masterpiece?",
+    "correct_answer": "The Dark Knight",
+    "options": ["Batman Begins", "The Dark Knight", "The Dark Knight Rises", "The Batman"],
+    "categories": ["Movie", "Action", "Crime"]
+  },
+  {
+    "id": 83,
+    "type": "image",
+    "image_url": "images/collage_avatar.webp",
+    "difficulty": "Easy",
+    "question": "This cast explores a lush bioluminescent alien moon while caught in a conflict over scarce natural resources in which 2009 cinematic event?",
+    "correct_answer": "Avatar",
+    "options": ["Avatar", "Interstellar", "Prometheus", "Guardians of the Galaxy"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 84,
+    "type": "image",
+    "image_url": "images/collage_the_avengers.webp",
+    "difficulty": "Medium",
+    "question": "A group of extraordinary individuals are forced to unite as a team to stop a galactic threat from invading New York City in which 2012 ensemble movie?",
+    "correct_answer": "The Avengers",
+    "options": ["The Avengers", "Avengers: Age of Ultron", "Justice League", "Iron Man 3"],
+    "categories": ["Movie", "Action", "Sci-Fi"]
   }
 ]
