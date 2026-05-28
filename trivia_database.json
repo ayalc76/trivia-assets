@@ -1117,5 +1117,485 @@
     "correct_answer": "Django Unchained",
     "options": ["Inglourious Basterds", "Django Unchained", "The Hateful Eight", "True Grit"],
     "categories": ["Movie", "Action", "Western"]
+  },
+  {
+    "id": 117,
+    "type": "macro_shot",
+    "image_url": "images/macro_inception_top.webp",
+    "difficulty": "Easy",
+    "question": "Can you identify the film that hinges on whether this tiny, spinning silver totem keeps turning?",
+    "correct_answer": "Inception",
+    "options": ["Interstellar", "Inception", "Mementos", "The Prestige"],
+    "categories": ["Movie", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 118,
+    "type": "macro_shot",
+    "image_url": "images/macro_it_balloon.webp",
+    "difficulty": "Easy",
+    "question": "This massive red surface belongs to an iconic object that is terrifyingly connected to a malevolent entity in which 2017 horror?",
+    "correct_answer": "IT",
+    "options": ["IT", "Poltergeist", "The Conjuring", "The Shinning"],
+    "categories": ["Movie", "Horror"]
+  },
+  {
+    "id": 119,
+    "type": "macro_shot",
+    "image_url": "images/macro_wonka_ticket.webp",
+    "difficulty": "Easy",
+    "question": "A key indentation marks the edge of a golden ticket in this extreme close-up. Identify the eccentric factory owner behind this prize.",
+    "correct_answer": "Willy Wonka",
+    "options": ["Charlie and the Chocolate Factory", "Willy Wonka", "Charlie Bucket", "Veruca Salt"],
+    "categories": ["Movie", "Fantasy"]
+  },
+  {
+    "id": 120,
+    "type": "macro_shot",
+    "image_url": "images/macro_backto_flux.webp",
+    "difficulty": "Hard",
+    "question": "This complex, messy macro shot looks deep into the core mechanism of which time-travel components made famous by Doc Brown?",
+    "correct_answer": "Flux Capacitor",
+    "options": ["Flux Capacitor", "Delorean Engine", "Tachyon Drive", "Time Turner"],
+    "categories": ["Movie", "Sci-Fi", "Comedy"]
+  },
+  {
+    "id": 121,
+    "type": "macro_shot",
+    "image_url": "images/macro_barber_pole.webp",
+    "difficulty": "Medium",
+    "question": "An extreme close-up of a spinning red-and-white stripes pattern. Which 2001 Coen brothers neo-noir crime film features a small-town barber who blackmails his wife's lover?",
+    "correct_answer": "The Man Who Wasn't There",
+    "options": ["The Man Who Wasn't There", "Sweeney Todd", "Fargo", "The Barber of Siberia"],
+    "categories": ["Movie", "Crime", "Drama"]
+  },
+  {
+    "id": 122,
+    "type": "macro_shot",
+    "image_url": "images/macro_truffle.webp",
+    "difficulty": "Hard",
+    "question": "A macro shot of a dusted chocolate truffle. Juliette Binoche opens an influential, mysterious confectionery shop in a conservative French village in which 2000 romantic drama?",
+    "correct_answer": "Chocolat",
+    "options": ["Chocolat", "Amélie", "The Taste of Things", "Like Water for Chocolate"],
+    "categories": ["Movie", "Romance", "Drama"]
+  },
+  {
+    "id": 123,
+    "type": "macro_shot",
+    "image_url": "images/macro_telephone.webp",
+    "difficulty": "Medium",
+    "question": "Looking directly into the blue receiver piece of an old telephone. In which surreal, mind-bending mystery TV show does a ringing phone inside a dreamlike hotel room deliver cryptic clues?",
+    "correct_answer": "Twin Peaks",
+    "options": ["Twin Peaks", "The X-Files", "Lost", "Fringe"],
+    "categories": ["TV Show", "Mystery", "Surreal"]
+  },
+  {
+    "id": 124,
+    "type": "macro_shot",
+    "image_url": "images/macro_gavel.webp",
+    "difficulty": "Medium",
+    "question": "A high-detail view of a wooden judge's gavel. Which critically acclaimed 1992 legal drama focuses on the court-martial of two U.S. Marines and features the line, 'You can't handle the truth!'?",
+    "correct_answer": "A Few Good Men",
+    "options": ["A Few Good Men", "Primal Fear", "Philadelphia", "The Pelican Brief"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 125,
+    "type": "macro_shot",
+    "image_url": "images/macro_camera_lens.webp",
+    "difficulty": "Hard",
+    "question": "Focusing deep into a professional camera lens element. Which legendary 1954 Alfred Hitchcock thriller follows a wheelchair-bound photographer who spies on his neighbors and suspects a murder?",
+    "correct_answer": "Rear Window",
+    "options": ["Rear Window", "Vertigo", "Blow-Up", "Peeping Tom"],
+    "categories": ["Movie", "Mystery", "Thriller"]
+  },
+  {
+    "id": 126,
+    "type": "macro_shot",
+    "image_url": "images/macro_stopwatch.webp",
+    "difficulty": "Hard",
+    "question": "An intricate look into mechanical clockwork gears. In which complex 2020 Christopher Nolan sci-fi action epic does a secret agent manipulate the flow of time via 'inversion' to stop an apocalypse?",
+    "correct_answer": "Tenet",
+    "options": ["Tenet", "Inception", "Interstellar", "Looper"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 127,
+    "type": "macro_shot",
+    "image_url": "images/macro_book_cover.webp",
+    "difficulty": "Hard",
+    "question": "A weathered, ancient leather book spine. Which iconic horror franchise hinges on characters uncovering the cursed 'Necronomicon Ex-Mortis' (The Book of the Dead)?",
+    "correct_answer": "Evil Dead",
+    "options": ["Evil Dead", "The Ninth Gate", "Hellraiser", "The Cabin in the Woods"],
+    "categories": ["Movie", "Horror"]
+  },
+  {
+    "id": 128,
+    "type": "macro_shot",
+    "image_url": "images/macro_compass.webp",
+    "difficulty": "Medium",
+    "question": "A macro shot focusing on a metallic navigation compass dial. Captain Jack Sparrow uses a unique supernatural compass that points toward whatever he wants most in which film franchise?",
+    "correct_answer": "Pirates of the Caribbean",
+    "options": ["Pirates of the Caribbean", "National Treasure", "The Mummy", "Peter Pan"],
+    "categories": ["Movie", "Adventure", "Fantasy"]
+  },
+  {
+    "id": 129,
+    "type": "macro_shot",
+    "image_url": "images/macro_radio_wires.webp",
+    "difficulty": "Medium",
+    "question": "A tangled array of vintage colored electronic circuits and wiring. Which historic 2014 drama centers on Alan Turing building an electromechanical machine to crack the Enigma code?",
+    "correct_answer": "The Imitation Game",
+    "options": ["The Imitation Game", "A Beautiful Mind", "Oppenheimer", "The Theory of Everything"],
+    "categories": ["Movie", "Drama", "History"]
+  },
+  {
+    "id": 130,
+    "type": "macro_shot",
+    "image_url": "images/macro_brass_key.webp",
+    "difficulty": "Hard",
+    "question": "The close-up serrations of an old brass door key. Which 2020 psychological drama starring Anthony Hopkins uses changing interior details and missing keys to portray a man experiencing dementia?",
+    "correct_answer": "The Father",
+    "options": ["The Father", "Amour", "Still Alice", "The Whale"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 131,
+    "type": "macro_shot",
+    "image_url": "images/macro_red_apple.webp",
+    "difficulty": "Easy",
+    "question": "A polished red apple. Which classic 1937 Disney animated masterpiece features a malicious queen who uses a poisoned apple to put a princess into a deep sleep?",
+    "correct_answer": "Snow White and the Seven Dwarfs",
+    "options": ["Snow White and the Seven Dwarfs", "Cinderella", "Sleeping Beauty", "Tangled"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 132,
+    "type": "macro_shot",
+    "image_url": "images/macro_soccer_ball.webp",
+    "difficulty": "Easy",
+    "question": "A bright blue and yellow soccer ball. Which sports comedy TV series follows an optimistic American college football coach who travels to England to manage AFC Richmond?",
+    "correct_answer": "Ted Lasso",
+    "options": ["Ted Lasso", "Welcome to Wrexham", "Ballers", "Friday Night Lights"],
+    "categories": ["TV Show", "Comedy", "Sports"]
+  },
+  {
+    "id": 133,
+    "type": "macro_shot",
+    "image_url": "images/macro_rubber_duck.webp",
+    "difficulty": "Medium",
+    "question": "A bright yellow rubber bath duck. Which iconic children's television program features Ernie regularly singing a song dedicated to his beloved Rubber Duckie?",
+    "correct_answer": "Sesame Street",
+    "options": ["Sesame Street", "The Muppet Show", "Barney & Friends", "Blue's Clues"],
+    "categories": ["TV Show", "Family", "Music"]
+  },
+  {
+    "id": 134,
+    "type": "macro_shot",
+    "image_url": "images/macro_pencil.webp",
+    "difficulty": "Medium",
+    "question": "The pink eraser tip of a wooden pencil. In which high-octane 2014 action thriller does a legendary assassin famously eliminate three men in a bar using nothing but a pencil?",
+    "correct_answer": "John Wick",
+    "options": ["John Wick", "Taken", "The Bourne Identity", "The Equalizer"],
+    "categories": ["Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 135,
+    "type": "macro_shot",
+    "image_url": "images/macro_pizza_slice.webp",
+    "difficulty": "Easy",
+    "question": "A single slice of pepperoni pizza. Which beloved comic book franchise features four mutated, martial-artist turtles who live in the sewers and are completely obsessed with eating pizza?",
+    "correct_answer": "Teenage Mutant Ninja Turtles",
+    "options": ["Teenage Mutant Ninja Turtles", "Power Rangers", "Transformers", "Spider-Man"],
+    "categories": ["Movie", "Action", "Animation"]
+  },
+  {
+    "id": 136,
+    "type": "macro_shot",
+    "image_url": "images/macro_teddy_bear.webp",
+    "difficulty": "Easy",
+    "question": "A fluffy brown teddy bear. Which raunchy 2012 comedy stars Seth MacFarlane as the voice of a foul-mouthed, beer-drinking teddy bear who comes to life as John's childhood best friend?",
+    "correct_answer": "Ted",
+    "options": ["Ted", "Paddington", "Christopher Robin", "Paul"],
+    "categories": ["Movie", "Comedy", "Fantasy"]
+  },
+  {
+    "id": 137,
+    "type": "macro_shot",
+    "image_url": "images/macro_stop_sign.webp",
+    "difficulty": "Easy",
+    "question": "A bold red octagonal stop sign. In which viral 2021 South Korean survival drama series do players compete in a lethal, high-stakes game of 'Red Light, Green Light'?",
+    "correct_answer": "Squid Game",
+    "options": ["Squid Game", "Alice in Borderland", "All of Us Are Dead", "The 8 Show"],
+    "categories": ["TV Show", "Thriller", "Drama"]
+  },
+  {
+    "id": 138,
+    "type": "macro_shot",
+    "image_url": "images/macro_water_glass.webp",
+    "difficulty": "Easy",
+    "question": "A glass of water filled with ice. In which 1993 Steven Spielberg blockbustser does a glass of water famously ripple on a car dashboard to signal the approach of a Tyrannosaurus Rex?",
+    "correct_answer": "Jurassic Park",
+    "options": ["Jurassic Park", "King Kong", "Jaws", "Twister"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 139,
+    "type": "macro_shot",
+    "image_url": "images/macro_wristwatch.webp",
+    "difficulty": "Medium",
+    "question": "A minimalist wristwatch dial ticking down. Which 1985 sci-fi classic features a massive clock tower struck by lightning, providing the 1.21 gigawatts needed to power a time machine?",
+    "correct_answer": "Back to the Future",
+    "options": ["Back to the Future", "The Terminator", "Interstellar", "About Time"],
+    "categories": ["Movie", "Sci-Fi", "Comedy"]
+  },
+  {
+    "id": 140,
+    "type": "macro_shot",
+    "image_url": "images/macro_smartphone.webp",
+    "difficulty": "Medium",
+    "question": "A sleek modern smartphone lying flat. Which massive British sci-fi anthology series gets its name from the cold, dark reflection of a smartphone or TV screen when it is turned off?",
+    "correct_answer": "Black Mirror",
+    "options": ["Black Mirror", "The Twilight Zone", "Love, Death & Robots", "Severance"],
+    "categories": ["TV Show", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 141,
+    "type": "macro_shot",
+    "image_url": "images/macro_flip_flops.webp",
+    "difficulty": "Easy",
+    "question": "A pair of blue flip-flops on the sand. Which hit 2008 musical comedy based on the songs of ABBA takes place on an idyllic Greek island resort?",
+    "correct_answer": "Mamma Mia!",
+    "options": ["Mamma Mia!", "La La Land", "High School Musical", "Hairspray"],
+    "categories": ["Movie", "Musical", "Comedy", "Romance"]
+  },
+  {
+    "id": 142,
+    "type": "macro_shot",
+    "image_url": "images/macro_water_bottle.webp",
+    "difficulty": "Medium",
+    "question": "A clear plastic water bottle. Which intense, water-starved dystopian action epic features Tom Hardy and Charlize Theron fighting across a desert wasteland ruled by Immortan Joe?",
+    "correct_answer": "Mad Max: Fury Road",
+    "options": ["Mad Max: Fury Road", "The Book of Eli", "Waterworld", "Dune"],
+    "categories": ["Movie", "Action", "Sci-Fi"]
+  },
+  {
+    "id": 143,
+    "type": "macro_shot",
+    "image_url": "images/macro_coffee_mug.webp",
+    "difficulty": "Easy",
+    "question": "A simple ceramic coffee mug. Which legendary 1990s workplace sitcom features six friends who spend most of their days drinking coffee on a couch at the Central Perk café?",
+    "correct_answer": "Friends",
+    "options": ["Friends", "Seinfeld", "The Office", "How I Met Your Mother"],
+    "categories": ["TV Show", "Comedy", "Romance"]
+  },
+  {
+    "id": 144,
+    "type": "macro_shot",
+    "image_url": "images/macro_rubber_duck_v2.webp",
+    "difficulty": "Medium",
+    "question": "A bright yellow rubber duck. Which eccentric, blocky superhero team features Batman finding solace in a massive collection of rubber ducks inside the Batcave in his 2017 animated spin-off?",
+    "correct_answer": "The Lego Batman Movie",
+    "options": ["The Lego Batman Movie", "The Lego Movie", "Batman Forever", "Megamind"],
+    "categories": ["Movie", "Animation", "Comedy"]
+  },
+  {
+    "id": 145,
+    "type": "macro_shot",
+    "image_url": "images/macro_pencil_sharpener.webp",
+    "difficulty": "Easy",
+    "question": "A wooden pencil resting next to a metallic sharpener. Which hit mockumentary sitcom heavily centers on the mundane daily lives of employees at a mid-sized paper company called Dunder Mifflin?",
+    "correct_answer": "The Office",
+    "options": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Abbott Elementary"],
+    "categories": ["TV Show", "Comedy"]
+  },
+  {
+    "id": 146,
+    "type": "macro_shot",
+    "image_url": "images/macro_watch_compass.webp",
+    "difficulty": "Hard",
+    "question": "A wristwatch next to a navigation compass. Which beloved 1985 adventure film follows a group of misfit kids who use a vintage map and a compass to find a legendary pirate's hidden treasure?",
+    "correct_answer": "The Goonies",
+    "options": ["The Goonies", "Stand by Me", "Hook", "National Treasure"],
+    "categories": ["Movie", "Adventure", "Family"]
+  },
+  {
+    "id": 147,
+    "type": "macro_shot",
+    "image_url": "images/macro_apple_knife.webp",
+    "difficulty": "Medium",
+    "question": "A red apple resting next to a kitchen knife. Which iconic 1996 slasher film kicks off with a masked killer asking a high school student terrifying trivia questions over the phone?",
+    "correct_answer": "Scream",
+    "options": ["Scream", "Halloween", "A Nightmare on Elm Street", "Friday the 13th"],
+    "categories": ["Movie", "Horror", "Mystery"]
+  },
+  {
+    "id": 148,
+    "type": "macro_shot",
+    "image_url": "images/macro_teddy_bear_blue.webp",
+    "difficulty": "Easy",
+    "question": "A soft teddy bear wearing a blue bow ribbon. Which critically acclaimed 2014 family comedy follows a polite, marmalade-loving bear from Peru who travels to London and gets adopted by the Brown family?",
+    "correct_answer": "Paddington",
+    "options": ["Paddington", "Ted", "Winnie the Pooh", "Christopher Robin"],
+    "categories": ["Movie", "Family", "Comedy"]
+  },
+  {
+    "id": 149,
+    "type": "macro_shot",
+    "image_url": "images/macro_phone_cable.webp",
+    "difficulty": "Easy",
+    "question": "A smartphone plugged into its charging cable. In which hit 2011 sci-fi thriller series do people wake up to find their entire reality governed by a digital social rating system?",
+    "correct_answer": "Black Mirror",
+    "options": ["Black Mirror", "The Twilight Zone", "Severance", "Westworld"],
+    "categories": ["TV Show", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 150,
+    "type": "macro_shot",
+    "image_url": "images/macro_toy_car.webp",
+    "difficulty": "Easy",
+    "question": "A tiny red toy car. Which incredibly successful Pixar animation franchise is set in a world populated entirely by anthropomorphic talking vehicles, starring Lightning McQueen?",
+    "correct_answer": "Cars",
+    "options": ["Cars", "Toy Story", "Planes", "Turbo"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 151,
+    "type": "living_room",
+    "image_url": "images/room_friends_apartment.webp",
+    "difficulty": "Easy",
+    "question": "An open living space with a purple front door, mismatched kitchen chairs, and a signature beige couch. Which hit 90s sitcom centers on this iconic Greenwich Village apartment?",
+    "correct_answer": "Friends",
+    "options": ["Friends", "Seinfeld", "How I Met Your Mother", "New Girl"],
+    "categories": ["TV Show", "Comedy", "Romance"]
+  },
+  {
+    "id": 152,
+    "type": "living_room",
+    "image_url": "images/room_tbbt_apartment.webp",
+    "difficulty": "Easy",
+    "question": "A living room featuring a prominent white board covered in physics equations, collectible action figures, and a leather couch with a strictly reserved 'spot'. Identify the sitcom.",
+    "correct_answer": "The Big Bang Theory",
+    "options": ["The Big Bang Theory", "Silicon Valley", "Community", "The IT Crowd"],
+    "categories": ["TV Show", "Comedy"]
+  },
+  {
+    "id": 153,
+    "type": "living_room",
+    "image_url": "images/room_seinfeld_apartment.webp",
+    "difficulty": "Medium",
+    "question": "A cozy, gray Upper West Side apartment living room with a prominent computer desk in the corner and a patterned sofa. Which classic 'show about nothing' takes place here?",
+    "correct_answer": "Seinfeld",
+    "options": ["Seinfeld", "Frasier", "Mad About You", "Curb Your Enthusiasm"],
+    "categories": ["TV Show", "Comedy"]
+  },
+  {
+    "id": 154,
+    "type": "living_room",
+    "image_url": "images/room_downton_abbey.webp",
+    "difficulty": "Medium",
+    "question": "An elegant, aristocratic sitting room decorated with classic European paintings, high-end upholstery, and a grand fireplace. Which British historical drama relies on this grand estate?",
+    "correct_answer": "Downton Abbey",
+    "options": ["Downton Abbey", "The Crown", "Bridgerton", "Upstairs Downstairs"],
+    "categories": ["TV Show", "Drama", "History"]
+  },
+  {
+    "id": 155,
+    "type": "living_room",
+    "image_url": "images/room_breaking_bad.webp",
+    "difficulty": "Medium",
+    "question": "A modest, beige-toned suburban living room opening directly into a wood-paneled kitchen area. This Albuquerque home belongs to a high school chemistry teacher turned kingpin in which crime drama?",
+    "correct_answer": "Breaking Bad",
+    "options": ["Breaking Bad", "Better Call Saul", "Ozark", "Weeds"],
+    "categories": ["TV Show", "Drama", "Crime"]
+  },
+  {
+    "id": 156,
+    "type": "living_room",
+    "image_url": "images/room_twin_peaks_lodge.webp",
+    "difficulty": "Hard",
+    "question": "A rustic, wood-paneled log cabin interior surrounded by dense Pacific Northwest pine decorations. Which surreal, atmospheric mystery series features this signature architecture style?",
+    "correct_answer": "Twin Peaks",
+    "options": ["Twin Peaks", "Northern Exposure", "The X-Files", "Wayward Pines"],
+    "categories": ["TV Show", "Mystery", "Surreal"]
+  },
+  {
+    "id": 157,
+    "type": "living_room",
+    "image_url": "images/room_mad_men.webp",
+    "difficulty": "Hard",
+    "question": "A sleek, retro mid-century modern living room featuring low-profile couches, angular wooden tables, and sharp architectural lines. Which stylish 1960s period drama uses this design layout?",
+    "correct_answer": "Mad Men",
+    "options": ["Mad Men", "The Marvelous Mrs. Maisel", "Masters of Sex", "Pan Am"],
+    "categories": ["TV Show", "Drama", "History"]
+  },
+  {
+    "id": 158,
+    "type": "living_room",
+    "image_url": "images/room_sherlock_baker.webp",
+    "difficulty": "Hard",
+    "question": "A cluttered, classic London flat interior filled with textbooks, Victorian wallpaper patterns, a stone fireplace, and a prominent skull motif. Which BBC mystery update calls this home?",
+    "correct_answer": "Sherlock",
+    "options": ["Sherlock", "Elementary", "Luther", "Broadchurch"],
+    "categories": ["TV Show", "Mystery", "Drama"]
+  },
+  {
+    "id": 159,
+    "type": "living_room",
+    "image_url": "images/room_simpsons_house.webp",
+    "difficulty": "Easy",
+    "question": "A cartoon living room with bright pink walls, an orange couch, a purple television set, and a simple painting of a sailboat hanging on the wall. Identify this legendary animated sitcom space.",
+    "correct_answer": "The Simpsons",
+    "options": ["The Simpsons", "Family Guy", "South Park", "Futurama"],
+    "categories": ["TV Show", "Animation", "Comedy"]
+  },
+  {
+    "id": 160,
+    "type": "living_room",
+    "image_url": "images/room_wandavision.webp",
+    "difficulty": "Hard",
+    "question": "A highly stylized, symmetrical suburban living room modeled perfectly after classic 1950s/1960s television sets within an idealized town called Westview. Name this MCU series.",
+    "correct_answer": "WandaVision",
+    "options": ["WandaVision", "Loki", "Agatha All Along", "Legion"],
+    "categories": ["TV Show", "Sci-Fi", "Mystery", "Action"]
+  },
+  {
+    "id": 161,
+    "type": "house_exterior",
+    "image_url": "images/exterior_home_alone.webp",
+    "difficulty": "Easy",
+    "question": "Which beloved 1990 Christmas comedy centers on a massive red-brick Georgian colonial home in Illinois that an 8-year-old boy protects from burglars?",
+    "correct_answer": "Home Alone",
+    "options": ["Home Alone", "Christmas Vacation", "A Christmas Story", "The Santa Clause"],
+    "categories": ["Movie", "Comedy", "Family"]
+  },
+  {
+    "id": 162,
+    "type": "house_exterior",
+    "image_url": "images/exterior_psycho.webp",
+    "difficulty": "Easy",
+    "question": "An imposing, spooky Victorian Gothic house sits ominously on a hill overlooking a roadside motel. Name this legendary 1960 Alfred Hitchcock horror thriller.",
+    "correct_answer": "Psycho",
+    "options": ["Psycho", "The Birds", "Cape Fear", "Poltergeist"],
+    "categories": ["Movie", "Horror", "Thriller"]
+  },
+  {
+    "id": 163,
+    "type": "house_exterior",
+    "image_url": "images/exterior_the_goonies.webp",
+    "difficulty": "Medium",
+    "question": "Which 1985 adventure classic features this white, multi-level seaside home in Astoria, Oregon, where a group of misfit kids discover a pirate's treasure map?",
+    "correct_answer": "The Goonies",
+    "options": ["The Goonies", "Stand by Me", "E.T. the Extra-Terrestrial", "Super 8"],
+    "categories": ["Movie", "Adventure", "Family"]
+  },
+  {
+    "id": 164,
+    "type": "house_exterior",
+    "image_url": "images/exterior_the_shining.webp",
+    "difficulty": "Hard",
+    "question": "A massive, snow-covered mountain lodge serves as the setting for a family's descent into madness in which iconic 1980 psychological horror film?",
+    "correct_answer": "The Shining",
+    "options": ["The Shining", "Misery", "The Thing", "Doctor Sleep"],
+    "categories": ["Movie", "Horror", "Thriller"]
   }
 ]
