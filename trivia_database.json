@@ -997,5 +997,105 @@
     "correct_answer": "Ghostbusters",
     "options": ["Ghostbusters", "Beetlejuice", "Gremlins", "Men in Black"],
     "categories": ["Movie", "Comedy", "Sci-Fi"]
+  },
+  {
+    "id": 105,
+    "type": "image",
+    "image_url": "images/collage_the_wire.webp",
+    "difficulty": "Medium",
+    "question": "Which sprawling HBO crime drama examines the socio-political landscape of Baltimore through the lenses of law enforcement, drug cartels, dockworkers, and schools?",
+    "correct_answer": "The Wire",
+    "options": ["The Shield", "The Wire", "The Sopranos", "Boardwalk Empire"],
+    "categories": ["TV Show", "Drama", "Crime"]
+  },
+  {
+    "id": 106,
+    "type": "image",
+    "image_url": "images/collage_twin_peaks.webp",
+    "difficulty": "Hard",
+    "question": "An eccentric FBI agent arrives in a quirky Pacific Northwest town to investigate the surreal murder of homecoming queen Laura Palmer in which legendary mystery series?",
+    "correct_answer": "Twin Peaks",
+    "options": ["The X-Files", "Twin Peaks", "Fringe", "Wayward Pines"],
+    "categories": ["TV Show", "Mystery", "Drama", "Surreal"]
+  },
+  {
+    "id": 107,
+    "type": "image",
+    "image_url": "images/collage_the_sopranos.webp",
+    "difficulty": "Medium",
+    "question": "A New Jersey mob boss struggles to balance his highly dysfunctional family life with his criminal empire while visiting a psychiatrist in which groundbreaking drama?",
+    "correct_answer": "The Sopranos",
+    "options": ["The Wire", "The Sopranos", "Boardwalk Empire", "Ray Donovan"],
+    "categories": ["TV Show", "Drama", "Crime"]
+  },
+  {
+    "id": 108,
+    "type": "image",
+    "image_url": "images/collage_mad_men.webp",
+    "difficulty": "Medium",
+    "question": "Which sleek period drama tracks the competitive, high-pressure world of a prestigious 1960s New York advertising agency and its enigmatic creative director?",
+    "correct_answer": "Mad Men",
+    "options": ["Boardwalk Empire", "The Crown", "Mad Men", "Masters of Sex"],
+    "categories": ["TV Show", "Drama", "History"]
+  },
+  {
+    "id": 109,
+    "type": "image",
+    "image_url": "images/collage_lost.webp",
+    "difficulty": "Hard",
+    "question": "Survivors of a commercial plane crash must work together to stay alive on a mysterious island filled with supernatural threats in which massive mid-2000s sci-fi puzzle series?",
+    "correct_answer": "Lost",
+    "options": ["Fringe", "The Leftovers", "Lost", "Manifest"],
+    "categories": ["TV Show", "Sci-Fi", "Mystery", "Adventure"]
+  },
+  {
+    "id": 110,
+    "type": "image",
+    "image_url": "images/collage_westworld_v2.webp",
+    "difficulty": "Medium",
+    "question": "Android hosts in a hyper-realistic, western-themed park begin breaking their programming and reclaiming their consciousness in which mind-bending sci-fi saga?",
+    "correct_answer": "Westworld",
+    "options": ["Westworld", "Altered Carbon", "Battlestar Galactica", "Foundation"],
+    "categories": ["TV Show", "Sci-Fi", "Drama"]
+  },
+  {
+    "id": 111,
+    "type": "image",
+    "image_url": "images/collage_black_mirror.webp",
+    "difficulty": "Hard",
+    "question": "Which acclaimed speculative anthology series explores the dark, tech-paranoia themes of modern society and the unintended consequences of rapid innovation?",
+    "correct_answer": "Black Mirror",
+    "options": ["The Twilight Zone", "Black Mirror", "Love, Death & Robots", "Philip K. Dick's Electric Dreams"],
+    "categories": ["TV Show", "Sci-Fi", "Anthology", "Thriller"]
+  },
+  {
+    "id": 112,
+    "type": "image",
+    "image_url": "images/collage_succession.webp",
+    "difficulty": "Medium",
+    "question": "Four deeply dysfunctional siblings scheme and battle for control of their aging father's massive global media and entertainment conglomerate in which sharp satirical drama?",
+    "correct_answer": "Succession",
+    "options": ["Billions", "Succession", "House of Cards", "The Righteous Gemstones"],
+    "categories": ["TV Show", "Drama", "Comedy"]
+  },
+  {
+    "id": 113,
+    "type": "image",
+    "image_url": "images/collage_dark.webp",
+    "difficulty": "Hard",
+    "question": "The disappearance of two young children uncovers a sinister, multi-generational time-travel conspiracy in a small German town in which intricate, atmospheric sci-fi thriller?",
+    "correct_answer": "Dark",
+    "options": ["Stranger Things", "12 Monkeys", "The Leftovers", "Dark"],
+    "categories": ["TV Show", "Sci-Fi", "Mystery", "Thriller"]
+  },
+  {
+    "id": 114,
+    "type": "image",
+    "image_url": "images/collage_the_handmaids_tale.webp",
+    "difficulty": "Medium",
+    "question": "In a totalitarian, near-future society facing a fertility crisis, a class of forced fertile concubines fights to survive in which chilling dystopian drama series?",
+    "correct_answer": "The Handmaid's Tale",
+    "options": ["The Man in the High Castle", "The Handmaid's Tale", "Westworld", "Children of Men"],
+    "categories": ["TV Show", "Drama", "Sci-Fi"]
   }
 ]
