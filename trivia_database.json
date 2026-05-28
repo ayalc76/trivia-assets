@@ -896,8 +896,6 @@
     "options": ["Murder on the Orient Express", "Knives Out", "Glass Onion", "Clue"],
     "categories": ["Movie", "Mystery", "Comedy"]
   },
-  JSON
-[
   {
     "id": 95,
     "type": "image",
@@ -1125,7 +1123,7 @@
     "difficulty": "Easy",
     "question": "Can you identify the film that hinges on whether this tiny, spinning silver totem keeps turning?",
     "correct_answer": "Inception",
-    "options": ["Interstellar", "Inception", "Mementos", "The Prestige"],
+    "options": ["Interstellar", "Inception", "Memento", "The Prestige"],
     "categories": ["Movie", "Sci-Fi", "Thriller"]
   },
   {
