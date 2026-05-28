@@ -1097,5 +1097,25 @@
     "correct_answer": "The Handmaid's Tale",
     "options": ["The Man in the High Castle", "The Handmaid's Tale", "Westworld", "Children of Men"],
     "categories": ["TV Show", "Drama", "Sci-Fi"]
+  },
+  {
+    "id": 115,
+    "type": "image",
+    "image_url": "images/scene_interstellar_library.webp",
+    "difficulty": "Hard",
+    "question": "An astronaut finds himself trapped inside a multi-dimensional, infinite bookshelf tesseract, attempting to send messages back across time in which visually stunning 2014 sci-fi?",
+    "correct_answer": "Interstellar",
+    "options": ["The Martian", "Ad Astra", "Interstellar", "Gravity"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 116,
+    "type": "image",
+    "image_url": "images/scene_django_table.webp",
+    "difficulty": "Medium",
+    "question": "An unhinged plantation owner slams his fist onto a dinner table, accidentally slicing his hand open and smearing real blood across a captive woman's face in which intense 2012 western scene?",
+    "correct_answer": "Django Unchained",
+    "options": ["Inglourious Basterds", "Django Unchained", "The Hateful Eight", "True Grit"],
+    "categories": ["Movie", "Action", "Western"]
   }
 ]
