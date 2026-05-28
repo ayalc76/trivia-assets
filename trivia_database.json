@@ -25,10 +25,10 @@
     "image_url": "images/lotr_bridge.webp",
     "difficulty": "Medium",
     "question": "Which fantasy film features this dramatic showdown on a crumbling stone bridge?",
-    "correct_answer": "The Lord of the Rings: The Fellowship of the Ring",
+    "correct_answer": "The Lord of the Rings",
     "options": [
       "The Chronicles of Narnia",
-      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings",
       "Harry Potter and the Sorcerer's Stone",
       "Eragon"],
     "categories": ["Movie", "Fantasy", "Adventure"]
@@ -1187,7 +1187,7 @@
     "difficulty": "Easy",
     "question": "This massive red surface belongs to an iconic object that is terrifyingly connected to a malevolent entity in which 2017 horror?",
     "correct_answer": "IT",
-    "options": ["IT", "Poltergeist", "The Conjuring", "The Shinning"],
+    "options": ["IT", "Poltergeist", "The Conjuring", "The Shining"],
     "categories": ["Movie", "Horror"]
   },
   {
