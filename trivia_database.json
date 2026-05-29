@@ -1649,5 +1649,405 @@
     "correct_answer": "The Shining",
     "options": ["The Shining", "Misery", "The Thing", "Doctor Sleep"],
     "categories": ["Movie", "Horror", "Thriller"]
+  },
+  {
+    "id": 165,
+    "type": "sound",
+    "audio_url": "audio/A Space Odyssey 2001.mp3",
+    "difficulty": "Hard",
+    "question": "Featuring massive pounding timpani drums and a soaring brass crescendo, Richard Strauss's music defines the opening of which 1968 sci-fi masterpiece?",
+    "correct_answer": "2001: A Space Odyssey",
+    "options": ["2001: A Space Odyssey", "Interstellar", "Star Trek", "Planet of the Apes"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 166,
+    "type": "sound",
+    "audio_url": "audio/Airwolf.mp3",
+    "difficulty": "Hard",
+    "question": "Which high-flying 1980s military action series features this energetic synth theme centered on a high-tech supersonic military helicopter?",
+    "correct_answer": "Airwolf",
+    "options": ["Airwolf", "Knight Rider", "The A-Team", "MacGyver"],
+    "categories": ["TV Show", "Action", "Adventure"]
+  },
+  {
+    "id": 167,
+    "type": "sound",
+    "audio_url": "audio/Alf Theme.mp3",
+    "difficulty": "Medium",
+    "question": "This upbeat synth-pop and saxophone melody serves as the title theme for which classic sitcom about a sarcastic alien living with a suburban family?",
+    "correct_answer": "ALF",
+    "options": ["ALF", "Mork & Mindy", "3rd Rock from the Sun", "Small Wonder"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 168,
+    "type": "sound",
+    "audio_url": "audio/All In The Family.mp3",
+    "difficulty": "Medium",
+    "question": "Which boundary-pushing 1971 sitcom famously opens with the main married couple sitting at a piano singing 'Those Were the Days'?",
+    "correct_answer": "All in the Family",
+    "options": ["All in the Family", "The Jeffersons", "Sanford and Son", "Maude"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 169,
+    "type": "sound",
+    "audio_url": "audio/Beverly Hills 90210.mp3",
+    "difficulty": "Easy",
+    "question": "This rock guitar and horn riff defined the teenage drama landscape of the 1990s. Name this zip-code titled series.",
+    "correct_answer": "Beverly Hills, 90210",
+    "options": ["Beverly Hills, 90210", "Melrose Place", "Dawson's Creek", "Party of Five"],
+    "categories": ["TV Show", "Drama", "Romance"]
+  },
+  {
+    "id": 170,
+    "type": "sound",
+    "audio_url": "audio/Breaking Bad.mp3",
+    "difficulty": "Easy",
+    "question": "This dark, gritty slide-guitar signature track accompanied by ambient desert percussion is the theme song for which highly acclaimed 2008 crime drama?",
+    "correct_answer": "Breaking Bad",
+    "options": ["Breaking Bad", "Better Call Saul", "Ozark", "The Wire"],
+    "categories": ["TV Show", "Drama", "Crime"]
+  },
+  {
+    "id": 171,
+    "type": "sound",
+    "audio_url": "audio/Cosby Show.mp3",
+    "difficulty": "Hard",
+    "question": "Which massive 1980s family sitcom featured a new jazzy variation of this theme song every season while the main cast danced in front of a colorful backdrop?",
+    "correct_answer": "The Cosby Show",
+    "options": ["The Cosby Show", "Family Ties", "Growing Pains", "A Different World"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 172,
+    "type": "sound",
+    "audio_url": "audio/Dallas Theme.mp3",
+    "difficulty": "Medium",
+    "question": "This sweeping, dramatic orchestral theme song opened the doors to Southfork Ranch in which legendary prime-time soap opera centered on the Ewing oil empire?",
+    "correct_answer": "Dallas",
+    "options": ["Dallas", "Dynasty", "Knots Landing", "Falcon Crest"],
+    "categories": ["TV Show", "Drama"]
+  },
+  {
+    "id": 173,
+    "type": "sound",
+    "audio_url": "audio/Doogie Howser MD.mp3",
+    "difficulty": "Hard",
+    "question": "Which comedy-drama features this playful, electronic synthesizer theme following the daily life of a teenage genius physician?",
+    "correct_answer": "Doogie Howser, M.D.",
+    "options": ["Doogie Howser, M.D.", "ER", "St. Elsewhere", "The Wonder Years"],
+    "categories": ["TV Show", "Comedy", "Medical"]
+  },
+  {
+    "id": 174,
+    "type": "sound",
+    "audio_url": "audio/Dynasty Theme.mp3",
+    "difficulty": "Medium",
+    "question": "Bill Conti composed this grand, luxurious brass fanfare for which glamorous 1980s prime-time soap opera detailing the wealthy Carrington family?",
+    "correct_answer": "Dynasty",
+    "options": ["Dynasty", "Dallas", "The Colbys", "Knots Landing"],
+    "categories": ["TV Show", "Drama"]
+  },
+  {
+    "id": 175,
+    "type": "sound",
+    "audio_url": "audio/ER Theme.mp3",
+    "difficulty": "Medium",
+    "question": "Which massive, critically acclaimed 1990s medical drama series used this fast-paced, synthetic emergency pulse beat as its opening theme song?",
+    "correct_answer": "ER",
+    "options": ["ER", "Grey's Anatomy", "House", "Scrubs"],
+    "categories": ["TV Show", "Drama", "Medical"]
+  },
+  {
+    "id": 176,
+    "type": "sound",
+    "audio_url": "audio/ET Theme.mp3",
+    "difficulty": "Easy",
+    "question": "John Williams' soaring, magical orchestral string score builds whimsical wonder in which beloved Steven Spielberg sci-fi family film?",
+    "correct_answer": "E.T. the Extra-Terrestrial",
+    "options": ["E.T. the Extra-Terrestrial", "Close Encounters of the Third Kind", "Super 8", "Hook"],
+    "categories": ["Movie", "Sci-Fi", "Family"]
+  },
+  {
+    "id": 177,
+    "type": "sound",
+    "audio_url": "audio/Everybody Loves Raymond.mp3",
+    "difficulty": "Medium",
+    "question": "This lighthearted, jazzy orchestral theme plays as a sports writer complains about his intrusive parents living across the street in which hit sitcom?",
+    "correct_answer": "Everybody Loves Raymond",
+    "options": ["Everybody Loves Raymond", "The King of Queens", "Frasier", "Home Improvement"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 178,
+    "type": "sound",
+    "audio_url": "audio/Full House.mp3",
+    "difficulty": "Medium",
+    "question": "Identify the multi-generational family sitcom that opens with a car driving across the Golden Gate Bridge to the lyrics 'Everywhere you look...'?",
+    "correct_answer": "Full House",
+    "options": ["Full House", "Family Matters", "Step by Step", "Boy Meets World"],
+    "categories": ["TV Show", "Sitcom", "Family"]
+  },
+  {
+    "id": 179,
+    "type": "sound",
+    "audio_url": "audio/Game of Thrones.mp3",
+    "difficulty": "Easy",
+    "question": "This sweeping, dramatic cello melody acts as the opening signature for which massive, high-fantasy noble family political drama series?",
+    "correct_answer": "Game of Thrones",
+    "options": ["Game of Thrones", "The Witcher", "The Wheel of Time", "House of the Dragon"],
+    "categories": ["TV Show", "Fantasy", "Drama"]
+  },
+  {
+    "id": 180,
+    "type": "sound",
+    "audio_url": "audio/Godfather.mp3",
+    "difficulty": "Medium",
+    "question": "This haunting, melancholic waltz melody played on a solo trumpet introduces which legendary mafia family cinema trilogy?",
+    "correct_answer": "The Godfather",
+    "options": ["The Godfather", "Goodfellas", "Scarface", "The Sopranos"],
+    "categories": ["Movie", "Crime", "Drama"]
+  },
+  {
+    "id": 181,
+    "type": "sound",
+    "audio_url": "audio/Growing Pains.mp3",
+    "difficulty": "Hard",
+    "question": "The comforting pop-ballad duet 'As Long As We Got Each Other' serves as the memorable title soundtrack for which 1980s family sitcom?",
+    "correct_answer": "Growing Pains",
+    "options": ["Growing Pains", "Family Ties", "Who's the Boss?", "The Wonder Years"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 182,
+    "type": "sound",
+    "audio_url": "audio/Happy Days.mp3",
+    "difficulty": "Medium",
+    "question": "Which nostalgic 1950s-setting sitcom features this classic, fast-paced rock-and-roll track alongside characters hanging out at Arnold's Drive-In?",
+    "correct_answer": "Happy Days",
+    "options": ["Happy Days", "Laverne & Shirley", "Mork & Mindy", "Cheers"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 183,
+    "type": "sound",
+    "audio_url": "audio/Indiana Jones.mp3",
+    "difficulty": "Easy",
+    "question": "John Williams composed this triumphant, universally-known horn fanfare ('The Raiders March') for which legendary globetrotting archaeologist?",
+    "correct_answer": "Indiana Jones",
+    "options": ["Indiana Jones", "Star Wars", "Superman", "Jurassic Park"],
+    "categories": ["Movie", "Action", "Adventure"]
+  },
+  {
+    "id": 184,
+    "type": "sound",
+    "audio_url": "audio/James Bond Theme.mp3",
+    "difficulty": "Easy",
+    "question": "Which long-running secret agent franchise utilizes this sleek, iconic surf-guitar spy theme?",
+    "correct_answer": "James Bond",
+    "options": ["James Bond", "Mission: Impossible", "Jason Bourne", "Kingsman"],
+    "categories": ["Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 185,
+    "type": "sound",
+    "audio_url": "audio/Jurassic Park.mp3",
+    "difficulty": "Medium",
+    "question": "This majestic, deeply moving orchestral theme swells as audiences are first shown live dinosaurs roaming an island reserve in which 1993 film?",
+    "correct_answer": "Jurassic Park",
+    "options": ["Jurassic Park", "The Lost World", "King Kong", "Avatar"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 186,
+    "type": "sound",
+    "audio_url": "audio/Knight Rider.mp3",
+    "difficulty": "Medium",
+    "question": "This heavy electronic synth-pop track matches the futuristic pace of a lone crimefighter and his self-aware, talking sports car named KITT. Identify the series.",
+    "correct_answer": "Knight Rider",
+    "options": ["Knight Rider", "Airwolf", "Miami Vice", "The A-Team"],
+    "categories": ["TV Show", "Action", "Sci-Fi"]
+  },
+  {
+    "id": 187,
+    "type": "sound",
+    "audio_url": "audio/Macgyver Theme.mp3",
+    "difficulty": "Medium",
+    "question": "Which action-adventure series features this upbeat, synthetic 1980s theme detailing a resourceful secret agent who fixes international crises with everyday items?",
+    "correct_answer": "MacGyver",
+    "options": ["MacGyver", "The A-Team", "Knight Rider", "Miami Vice"],
+    "categories": ["TV Show", "Action", "Adventure"]
+  },
+  {
+    "id": 188,
+    "type": "sound",
+    "audio_url": "audio/Mad About You.mp3",
+    "difficulty": "Hard",
+    "question": "Paul Reiser and Andrew Gold co-wrote the jazzy theme song 'Final Frontier' for which 1990s romantic sitcom about newlyweds living in New York City?",
+    "correct_answer": "Mad About You",
+    "options": ["Mad About You", "Seinfeld", "Friends", "Frasier"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 189,
+    "type": "sound",
+    "audio_url": "audio/Married With Children.mp3",
+    "difficulty": "Medium",
+    "question": "Frank Sinatra's classic track 'Love and Marriage' serves as the hilariously ironic opening theme for which highly dysfunctional, cynical family sitcom?",
+    "correct_answer": "Married... with Children",
+    "options": ["Married... with Children", "Roseanne", "The Simpsons", "Full House"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 190,
+    "type": "sound",
+    "audio_url": "audio/Mission Impossible.mp3",
+    "difficulty": "Easy",
+    "question": "Listen to this high-octane 5/4 time signature brass track. Which legendary espionage franchise uses this fuse-burning theme?",
+    "correct_answer": "Mission: Impossible",
+    "options": ["Mission: Impossible", "James Bond", "Jason Bourne", "Jack Ryan"],
+    "categories": ["TV Show", "Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 191,
+    "type": "sound",
+    "audio_url": "audio/Stranger Things.mp3",
+    "difficulty": "Easy",
+    "question": "Listen to this dark, pulsing analog synthesizer arpeggio. It serves as the theme for which supernatural, 1980s-nostalgia blockbuster series?",
+    "correct_answer": "Stranger Things",
+    "options": ["Stranger Things", "Dark", "Fringe", "The X-Files"],
+    "categories": ["TV Show", "Sci-Fi", "Mystery"]
+  },
+  {
+    "id": 192,
+    "type": "sound",
+    "audio_url": "audio/Superman.mp3",
+    "difficulty": "Easy",
+    "question": "This soaring, regal march fanfare composed by John Williams perfectly captures the heroic cinematic flight of which legendary DC superhero?",
+    "correct_answer": "Superman",
+    "options": ["Superman", "Batman", "Spider-Man", "Flash Gordon"],
+    "categories": ["Movie", "Action", "Sci-Fi"]
+  },
+  {
+    "id": 193,
+    "type": "sound",
+    "audio_url": "audio/The A Team.mp3",
+    "difficulty": "Easy",
+    "question": "This military snare drum roll opening leading into a triumphant brass march belongs to which classic action series about four escaped commandos working as soldiers of fortune?",
+    "correct_answer": "The A-Team",
+    "options": ["The A-Team", "Airwolf", "Knight Rider", "MacGyver"],
+    "categories": ["TV Show", "Action", "Adventure"]
+  },
+  {
+    "id": 194,
+    "type": "sound",
+    "audio_url": "audio/The Addams Family.mp3",
+    "difficulty": "Easy",
+    "question": "Featuring a classic harpsichord baseline punctuated by rhythmic cast finger snaps, this spooky track introduces which macabre family?",
+    "correct_answer": "The Addams Family",
+    "options": ["The Addams Family", "The Munsters", "Bewitched", "The Twilight Zone"],
+    "categories": ["TV Show", "Comedy", "Fantasy"]
+  },
+  {
+    "id": 195,
+    "type": "sound",
+    "audio_url": "audio/The Bold and the Beautiful.mp3",
+    "difficulty": "Hard",
+    "question": "This smooth, romantic saxophone piece introduces the high-fashion corporate drama of the Forrester family in which long-running daytime soap opera?",
+    "correct_answer": "The Bold and the Beautiful",
+    "options": ["The Bold and the Beautiful", "The Young and the Restless", "Days of Our Lives", "General Hospital"],
+    "categories": ["TV Show", "Drama"]
+  },
+  {
+    "id": 196,
+    "type": "sound",
+    "audio_url": "audio/The Family Guy.mp3",
+    "difficulty": "Medium",
+    "question": "Which adult animated sitcom opens with a family sitting at a piano singing a musical-theater style song about how 'there's a laugh to make us cry' on TV?",
+    "correct_answer": "Family Guy",
+    "options": ["Family Guy", "The Simpsons", "American Dad!", "South Park"],
+    "categories": ["TV Show", "Animation", "Comedy"]
+  },
+  {
+    "id": 197,
+    "type": "sound",
+    "audio_url": "audio/The Flinstones.mp3",
+    "difficulty": "Easy",
+    "question": "This legendary big-band orchestral cartoon anthem calls out 'Meet the modern Stone Age family!' Identify this prehistoric series.",
+    "correct_answer": "The Flintstones",
+    "options": ["The Flintstones", "The Jetsons", "Scooby-Doo", "Looney Tunes"],
+    "categories": ["TV Show", "Animation", "Comedy"]
+  },
+  {
+    "id": 198,
+    "type": "sound",
+    "audio_url": "audio/The Good, The Bad And The Ugly.mp3",
+    "difficulty": "Easy",
+    "question": "Ennio Morricone's whistling melody and iconic howling coyote motif serve as the universal musical symbol for which Clint Eastwood Spaghetti Western classic?",
+    "correct_answer": "The Good, the Bad and the Ugly",
+    "options": ["The Good, the Bad and the Ugly", "A Fistful of Dollars", "For a Few Dollars More", "Unforgiven"],
+    "categories": ["Movie", "Western", "Action"]
+  },
+  {
+    "id": 199,
+    "type": "sound",
+    "audio_url": "audio/The Muppets Show.mp3",
+    "difficulty": "Easy",
+    "question": "This vaudeville-style theme song urges the audience to 'light the lights' and introduce a variety show populated by puppets. Name the series.",
+    "correct_answer": "The Muppet Show",
+    "options": ["The Muppet Show", "Sesame Street", "Fraggle Rock", "The Ant and the Aardvark"],
+    "categories": ["TV Show", "Comedy", "Family"]
+  },
+  {
+    "id": 200,
+    "type": "sound",
+    "audio_url": "audio/The office.mp3",
+    "difficulty": "Medium",
+    "question": "Which phenomenally successful mockumentary workplace comedy series uses this upbeat piano, accordion, and electric guitar melody as its opening theme?",
+    "correct_answer": "The Office (US)",
+    "options": ["The Office (US)", "Parks and Recreation", "Brooklyn Nine-Nine", "30 Rock"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 201,
+    "type": "sound",
+    "audio_url": "audio/The Pink Panther Theme.mp3",
+    "difficulty": "Easy",
+    "question": "Henry Mancini composed this playful, stealthy tenor saxophone jazz piece to accompany a cartoon feline in which movie and animation franchise?",
+    "correct_answer": "The Pink Panther",
+    "options": ["The Pink Panther", "Inspector Gadget", "Tom and Jerry", "Garfield"],
+    "categories": ["Movie", "Animation", "Comedy", "Jazz"]
+  },
+  {
+    "id": 202,
+    "type": "sound",
+    "audio_url": "audio/Threes Company.mp3",
+    "difficulty": "Medium",
+    "question": "The catchy pop tune 'Come and Knock on Our Door' introduces a chaotic living arrangement involving two women and one man pretending to be gay in which 1970s sitcom?",
+    "correct_answer": "Three's Company",
+    "options": ["Three's Company", "The Roper", "Three's a Crowd", "Laverne & Shirley"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
+  },
+  {
+    "id": 203,
+    "type": "sound",
+    "audio_url": "audio/Who Wants To Be A Millionaire.mp3",
+    "difficulty": "Easy",
+    "question": "This high-stress, dramatic electronic synth track mimics a ticking clock and changing ambient lights inside a high-stakes television game show. Identify it.",
+    "correct_answer": "Who Wants to Be a Millionaire",
+    "options": ["Who Wants to Be a Millionaire", "Jeopardy!", "The Price Is Right", "Wheel of Fortune"],
+    "categories": ["TV Show", "Game Show"]
+  },
+  {
+    "id": 204,
+    "type": "sound",
+    "audio_url": "audio/Whos The Boss.mp3",
+    "difficulty": "Medium",
+    "question": "The lighthearted theme 'Brand New Life' details an ex-baseball player moving to Connecticut to become a live-in housekeeper in which hit 80s comedy series?",
+    "correct_answer": "Who's the Boss?",
+    "options": ["Who's the Boss?", "Growing Pains", "Charles in Charge", "Silver Spoons"],
+    "categories": ["TV Show", "Sitcom", "Comedy"]
   }
 ]
