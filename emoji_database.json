@@ -1,0 +1,1104 @@
+[
+[
+  {
+    "id": 1,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie from the Emojis: 🤡 🎈 🌧️ ⛵",
+    "correct_answer": "It",
+    "clue": "Pennywise the clown terrorizes kids in Derry, Maine.",
+    "options": ["It", "Joker", "Poltergeist", "Finding Nemo"],
+    "categories": ["Movie", "Horror", "Thriller"]
+  },
+  {
+    "id": 2,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie from the Emojis: 🦖 🌋 🤠 🧬",
+    "correct_answer": "Jurassic Park",
+    "clue": "A billionaire builds a theme park of cloned dinosaurs.",
+    "options": ["Jurassic Park", "King Kong", "The Lost World", "Night at the Museum"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 3,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie from the Emojis: 🚢 ❄️ 🌊 💎",
+    "correct_answer": "Titanic",
+    "clue": "Jack and Rose fall in love on an ill-fated luxury ship.",
+    "options": ["Titanic", "The Poseidon Adventure", "Cast Away", "The Perfect Storm"],
+    "categories": ["Movie", "Romance", "Drama"]
+  },
+  {
+    "id": 4,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show from the Emojis: 🧪 👨‍🔬 🚙 💵",
+    "correct_answer": "Breaking Bad",
+    "clue": "A sick chemistry teacher starts making meth in an RV.",
+    "options": ["Breaking Bad", "Better Call Saul", "Weeds", "Ozark"],
+    "categories": ["TV Show", "Drama", "Crime"]
+  },
+  {
+    "id": 5,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie from the Emojis: 🦁 👑 🐗 🛲",
+    "correct_answer": "The Lion King",
+    "clue": "Simba reclaims his pride with Timon and Pumbaa.",
+    "options": ["The Lion King", "Madagascar", "The Jungle Book", "Tarzan"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 6,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie from the Emojis: 🌪️ 👠 🦁 🤖",
+    "correct_answer": "The Wizard of Oz",
+    "clue": "Dorothy follows the yellow brick road to get home.",
+    "options": ["The Wizard of Oz", "Wicked", "Alice in Wonderland", "Pan's Labyrinth"],
+    "categories": ["Movie", "Fantasy", "Classic"]
+  },
+  {
+    "id": 7,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show from the Emojis: 👔 ☕ 📄 🦚",
+    "correct_answer": "The Office",
+    "clue": "Mockumentary about staff at Dunder Mifflin paper co.",
+    "options": ["The Office", "Parks and Recreation", "30 Rock", "Brooklyn Nine-Nine"],
+    "categories": ["TV Show", "Comedy"]
+  },
+  {
+    "id": 8,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie from the Emojis: 🕶️ 💊 🟥 🟦",
+    "correct_answer": "The Matrix",
+    "clue": "Neo learns reality is a simulation run by machines.",
+    "options": ["The Matrix", "Inception", "Minority Report", "Equilibrium"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 9,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show from the Emojis: 🚲 🎒 🚲 👾",
+    "correct_answer": "Stranger Things",
+    "clue": "Kids uncover supernatural forces and Eleven in the 80s.",
+    "options": ["Stranger Things", "Dark", "The X-Files", "Super 8"],
+    "categories": ["TV Show", "Sci-Fi", "Horror"]
+  },
+  {
+    "id": 10,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie from the Emojis: 🍌 👁️ 👖 🛠️",
+    "correct_answer": "Minions",
+    "clue": "Small yellow creatures look for a supervillain master.",
+    "options": ["Minions", "Despicable Me", "Toy Story", "Monsters, Inc."],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+{
+    "id": 11,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👴 🏠 🎈 🐦",
+    "correct_answer": "Up",
+    "clue": "Carl flies his house to South America using balloons.",
+    "options": ["Toy Story", "Up", "Wall-E", "Inside Out"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 12,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🧙‍♂️ ⚡ 🪄 🦉",
+    "correct_answer": "Harry Potter",
+    "clue": "An orphan boy discovers he is a wizard at Hogwarts.",
+    "options": ["The Lord of the Rings", "The Chronicles of Narnia", "Percy Jackson", "Harry Potter"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 13,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🏃‍♂️ 🌳 🏓 🍫",
+    "correct_answer": "Forrest Gump",
+    "clue": "Life is like a box of chocolates for this Alabama man.",
+    "options": ["Forrest Gump", "The Green Mile", "Cast Away", "Rain Man"],
+    "categories": ["Movie", "Drama", "Romance"]
+  },
+  {
+    "id": 14,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👻 ghosts 🔫 🏙️",
+    "correct_answer": "Ghostbusters",
+    "clue": "Who ya gonna call for supernatural pest control in NYC?",
+    "options": ["Men in Black", "Ghostbusters", "Beetlejuice", "Casper"],
+    "categories": ["Movie", "Comedy", "Sci-Fi"]
+  },
+  {
+    "id": 15,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🦈 🏊 🌊 🛥️",
+    "correct_answer": "Jaws",
+    "clue": "A giant great white shark terrorizes a beach resort.",
+    "options": ["The Meg", "Deep Blue Sea", "Jaws", "Open Water"],
+    "categories": ["Movie", "Thriller", "Horror"]
+  },
+  {
+    "id": 16,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👽 🍬 🚲 🌕",
+    "correct_answer": "E.T. the Extra-Terrestrial",
+    "clue": "Elliott tries to help a stranded alien phone home.",
+    "options": ["E.T. the Extra-Terrestrial", "Close Encounters of the Third Kind", "Super 8", "Signs"],
+    "categories": ["Movie", "Sci-Fi", "Family"]
+  },
+  {
+    "id": 17,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐀 🧑‍🍳 🍝 🇫🇷",
+    "correct_answer": "Ratatouille",
+    "clue": "Remy the rat dreams of becoming a top chef in Paris.",
+    "options": ["Chef", "Ratatouille", "The Bear", "Beauty and the Beast"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 18,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🤵 🍸 🔫 🇬🇧",
+    "correct_answer": "James Bond",
+    "clue": "A British spy with a license to kill. Shaken, not stirred.",
+    "options": ["Mission: Impossible", "Kingsman", "Jason Bourne", "James Bond"],
+    "categories": ["Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 19,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🤠 🚀 🦖 🐷",
+    "correct_answer": "Toy Story",
+    "clue": "Woody and Buzz compete for Andy's affection.",
+    "options": ["Toy Story", "Monsters, Inc.", "A Bug's Life", "Small Soldiers"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 20,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 👑 💍 🌋 🦅",
+    "correct_answer": "The Lord of the Rings",
+    "clue": "Frodo journeys to Mount Doom to destroy the One Ring.",
+    "options": ["The Hobbit", "The Lord of the Rings", "The Chronicles of Narnia", "Game of Thrones"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 21,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🏹 🍎 🐦 👧",
+    "correct_answer": "The Hunger Games",
+    "clue": "Katniss competes in a televised fight-to-the-death.",
+    "options": ["The Hunger Games", "Divergent", "The Maze Runner", "Brave"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 22,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 👑 ⚔️ 🐺 🐉",
+    "correct_answer": "Game of Thrones",
+    "clue": "Noble families fight for the Iron Throne of Westeros.",
+    "options": ["Vikings", "The Witcher", "The Lord of the Rings: The Rings of Power", "Game of Thrones"],
+    "categories": ["TV Show", "Fantasy", "Drama"]
+  },
+  {
+    "id": 23,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🤫 🐑 🦋 👨‍⚕️",
+    "correct_answer": "The Silence of the Lambs",
+    "clue": "Clarice Starling interviews cannibal Hannibal Lecter.",
+    "options": ["The Silence of the Lambs", "Hannibal", "Seven", "Zodiac"],
+    "categories": ["Movie", "Thriller", "Crime"]
+  },
+  {
+    "id": 24,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🛩️ 🏝️ 🏐 😭",
+    "correct_answer": "Cast Away",
+    "clue": "Tom Hanks is stranded on an island with Wilson the ball.",
+    "options": ["Lost", "Cast Away", "The Martian", "Life of Pi"],
+    "categories": ["Movie", "Drama", "Adventure"]
+  },
+  {
+    "id": 25,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 😈 👠 👗 ☕",
+    "correct_answer": "The Devil Wears Prada",
+    "clue": "Andy gets a job assisting a ruthless fashion editor.",
+    "options": ["The Intern", "The Devil Wears Prada", "Confessions of a Shopaholic", "Cruella"],
+    "categories": ["Movie", "Comedy", "Drama"]
+  },
+  {
+    "id": 26,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🐺 📈 💵 🍾",
+    "correct_answer": "The Wolf of Wall Street",
+    "clue": "Jordan Belfort makes a fortune as a corrupt stockbroker.",
+    "options": ["Wall Street", "The Big Short", "The Wolf of Wall Street", "American Psycho"],
+    "categories": ["Movie", "Biography", "Comedy", "Drama"]
+  },
+  {
+    "id": 27,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 👨‍🚀 🚀 🌽 ⏳",
+    "correct_answer": "Interstellar",
+    "clue": "Astronauts travel through a wormhole to save humanity.",
+    "options": ["The Martian", "Interstellar", "Gravity", "Ad Astra"],
+    "categories": ["Movie", "Sci-Fi", "Drama"]
+  },
+  {
+    "id": 28,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🧼 🧼 🥊 🧔",
+    "correct_answer": "Fight Club",
+    "clue": "The first rule is: you do not talk about it.",
+    "options": ["Fight Club", "Snatch", "Pulp Fiction", "The Machinist"],
+    "categories": ["Movie", "Drama", "Thriller"]
+  },
+  {
+    "id": 29,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🎻 📜 🏭 ✡️",
+    "correct_answer": "Schindler's List",
+    "clue": "An industrialist saves Jewish refugees during WWII.",
+    "options": ["The Pianist", "Schindler's List", "Life is Beautiful", "The Boy in the Striped Pajamas"],
+    "categories": ["Movie", "Drama", "History"]
+  },
+  {
+    "id": 30,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: 👁️ 🏰 🐺 🦌",
+    "correct_answer": "Succession",
+    "clue": "The dysfunctional Roy family fights over a media empire.",
+    "options": ["Yellowstone", "Succession", "Billions", "House of Cards"],
+    "categories": ["TV Show", "Drama"]
+  },
+{
+    "id": 31,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: ❄️ 👑 ⛄ 👭",
+    "correct_answer": "Frozen",
+    "clue": "Princess Elsa accidentally freezes her kingdom.",
+    "options": ["Tangled", "Frozen", "Moana", "Brave"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 32,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🕷️ 🕸️ 👦 🏙️",
+    "correct_answer": "Spider-Man",
+    "clue": "Peter Parker gets bitten by a radioactive spider.",
+    "options": ["Batman", "The Avengers", "Spider-Man", "Iron Man"],
+    "categories": ["Movie", "Action", "Sci-Fi"]
+  },
+  {
+    "id": 33,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🚗 🏎️ ⚡ 🌵",
+    "correct_answer": "Cars",
+    "clue": "Lightning McQueen gets stranded in Radiator Springs.",
+    "options": ["Cars", "Turbo", "Planes", "Toy Story"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 34,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐠 🌊 🗺️ 🤿",
+    "correct_answer": "Finding Nemo",
+    "clue": "Marlin travels across the ocean to find his son.",
+    "options": ["Shark Tale", "Finding Nemo", "A Bug's Life", "The Little Mermaid"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 35,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🛩️ 🕶️ 👨‍✈️ 🔥",
+    "correct_answer": "Top Gun",
+    "clue": "Tom Hanks stars as Maverick in an elite fighter pilot school.",
+    "options": ["Iron Eagle", "Pearl Harbor", "Top Gun", "Stealth"],
+    "categories": ["Movie", "Action", "Drama"]
+  },
+  {
+    "id": 36,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐒 🦁 🦓 🗽",
+    "correct_answer": "Madagascar",
+    "clue": "Central Park Zoo animals get stranded on an island.",
+    "options": ["The Wild", "Madagascar", "The Jungle Book", "Zootopia"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 37,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐒 🕌 💎 🧞‍♂️",
+    "correct_answer": "Aladdin",
+    "clue": "A street thief finds a magical lamp containing a genie.",
+    "options": ["Aladdin", "Sinbad", "Hercules", "Mulan"],
+    "categories": ["Movie", "Animation", "Fantasy"]
+  },
+  {
+    "id": 38,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🦇 🃏 🏙️ 🤵",
+    "correct_answer": "The Dark Knight",
+    "clue": "Batman fights a psychotic villain named the Joker.",
+    "options": ["The Dark Knight", "Man of Steel", "Watchmen", "Sin City"],
+    "categories": ["Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 39,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🍫 🏭 🎩 🎟️",
+    "correct_answer": "Charlie and the Chocolate Factory",
+    "clue": "Willy Wonka hides golden tickets inside candy bars.",
+    "options": ["Matilda", "The BFG", "Charlie and the Chocolate Factory", "Pinocchio"],
+    "categories": ["Movie", "Fantasy", "Family"]
+  },
+  {
+    "id": 40,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🍌 👑 🦍 🏙️",
+    "correct_answer": "King Kong",
+    "clue": "A giant gorilla climbs the Empire State Building.",
+    "options": ["Godzilla", "King Kong", "Mighty Joe Young", "Planet of the Apes"],
+    "categories": ["Movie", "Adventure", "Sci-Fi"]
+  },
+  {
+    "id": 41,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: ⚔️ 🌌 🪐 🛸",
+    "correct_answer": "Star Wars",
+    "clue": "Luke Skywalker fights the Galactic Empire.",
+    "options": ["Star Trek", "Star Wars", "Dune", "Avatar"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 42,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🏹 💚 🧝‍♂️ 🪓",
+    "correct_answer": "The Hobbit",
+    "clue": "Bilbo Baggins journeys with dwarves to reclaim a mountain.",
+    "options": ["The Lord of the Rings", "The Hobbit", "Eragon", "Willow"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 43,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🦁 🪞 🚪 ❄️",
+    "correct_answer": "The Chronicles of Narnia",
+    "clue": "Four siblings discover a magical world inside a wardrobe.",
+    "options": ["The Chronicles of Narnia", "Harry Potter", "Peter Pan", "Alice in Wonderland"],
+    "categories": ["Movie", "Fantasy", "Family"]
+  },
+  {
+    "id": 44,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐼 🥢 🥋 🐯",
+    "correct_answer": "Kung Fu Panda",
+    "clue": "A clumsy panda named Po becomes the Dragon Warrior.",
+    "options": ["Kung Fu Panda", "Mulan", "How to Train Your Dragon", "Shrek"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 45,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👹 🪵 🧅 🫏",
+    "correct_answer": "Shrek",
+    "clue": "An ogre goes on a quest to rescue a princess for his swamp.",
+    "options": ["Puss in Boots", "Shrek", "Monsters Inc.", "Enchanted"],
+    "categories": ["Movie", "Animation", "Comedy"]
+  },
+  {
+    "id": 46,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: ⏰ 🚗 ⚡ 👨‍🔬",
+    "correct_answer": "Back to the Future",
+    "clue": "Marty McFly travels back to 1955 in a DeLorean.",
+    "options": ["The Terminator", "Looper", "Back to the Future", "The Time Machine"],
+    "categories": ["Movie", "Sci-Fi", "Comedy"]
+  },
+  {
+    "id": 47,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 👠 🎃 🐭 🏰",
+    "correct_answer": "Cinderella",
+    "clue": "A glass slipper is left behind at a royal ball.",
+    "options": ["Snow White", "Sleeping Beauty", "Cinderella", "Enchanted"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 48,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 🧟 🪵 🪓 🏹",
+    "correct_answer": "The Walking Dead",
+    "clue": "Survivors navigate a world overrun by zombies.",
+    "options": ["The Walking Dead", "Fear the Walking Dead", "The Last of Us", "Z Nation"],
+    "categories": ["TV Show", "Horror", "Drama"]
+  },
+  {
+    "id": 49,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🦖 🤠 🌌 🚀",
+    "correct_answer": "Toy Story 2",
+    "clue": "Woody gets stolen by a greedy toy collector.",
+    "options": ["Toy Story", "Toy Story 2", "Small Soldiers", "Lightyear"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 50,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 🟡 🟦 🍍 🍔",
+    "correct_answer": "SpongeBob SquarePants",
+    "clue": "An optimistic sea sponge lives in Bikini Bottom.",
+    "options": ["SpongeBob SquarePants", "Patrick Star Show", "Camp Coral", "Fish Hooks"],
+    "categories": ["TV Show", "Animation", "Comedy"]
+  },
+  {
+    "id": 51,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🥚 🦕 🏝️ 🧑‍",
+    "correct_answer": "The Lost World: Jurassic Park",
+    "clue": "An expedition is sent to Isla Sorna to study dinosaurs.",
+    "options": ["Jurassic Park", "The Lost World: Jurassic Park", "Jurassic World", "King Kong"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 52,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🚢 🏝️ 🐵 🌴",
+    "correct_answer": "King Kong (2005)",
+    "clue": "Filmmakers travel to Skull Island and find a beast.",
+    "options": ["King Kong", "King Kong (2005)", "Kong: Skull Island", "Tarzan"],
+    "categories": ["Movie", "Adventure", "Fantasy"]
+  },
+  {
+    "id": 53,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🧙‍♂️ 🧝‍♂️ 🚪 🏔️",
+    "correct_answer": "The Fellowship of the Ring",
+    "clue": "Nine companions band together to destroy a corrupt ring.",
+    "options": ["The Fellowship of the Ring", "The Two Towers", "The Return of the King", "The Hobbit"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 54,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🏰 🌹 🪞 🫖",
+    "correct_answer": "Beauty and the Beast",
+    "clue": "A young woman falls in love with a cursed prince.",
+    "options": ["Cinderella", "Beauty and the Beast", "Sleeping Beauty", "Tangled"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 55,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🎭 🏛️ ⚔️ 🐎",
+    "correct_answer": "Gladiator",
+    "clue": "A betrayed Roman general becomes a lethal gladiator.",
+    "options": ["Troy", "Spartacus", "Gladiator", "300"],
+    "categories": ["Movie", "Action", "Drama"]
+  },
+  {
+    "id": 56,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🩰 🪵 🦢 🩸",
+    "correct_answer": "Black Swan",
+    "clue": "A ballerina loses her grip on reality during a production.",
+    "options": ["Black Swan", "Whiplash", "The Red Shoes", "Suspiria"],
+    "categories": ["Movie", "Thriller", "Drama"]
+  },
+  {
+    "id": 57,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🎰 👔 🕶️ 👶",
+    "correct_answer": "The Hangover",
+    "clue": "Friends wake up in Vegas with no memory of their bachelor party.",
+    "options": ["Old School", "The Hangover", "Superbad", "Wedding Crashers"],
+    "categories": ["Movie", "Comedy"]
+  },
+  {
+    "id": 58,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: ☕ 🪵 🦉 🌲",
+    "correct_answer": "Twin Peaks",
+    "clue": "An FBI agent investigates a murder in a quirky timber town.",
+    "options": ["The X-Files", "Twin Peaks", "Fargo", "Wayward Pines"],
+    "categories": ["TV Show", "Mystery", "Drama"]
+  },
+  {
+    "id": 59,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: 🐉 ⚔️ 🏰 ❄️",
+    "correct_answer": "House of the Dragon",
+    "clue": "The internal succession war of House Targaryen.",
+    "options": ["Game of Thrones", "The Witcher", "House of the Dragon", "Vikings"],
+    "categories": ["TV Show", "Fantasy", "Drama"]
+  },
+  {
+    "id": 60,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: ♟️ 💊 🏆 👩‍🦰",
+    "correct_answer": "The Queen's Gambit",
+    "clue": "An orphaned prodigy rises to the top of the chess world.",
+    "options": ["The Queen's Gambit", "The Crown", "The Marvelous Mrs. Maisel", "Unorthodox"],
+    "categories": ["TV Show", "Drama"]
+  },
+  {
+    "id": 61,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👹 👧 🚪 ⚡",
+    "correct_answer": "Monsters, Inc.",
+    "clue": "Monsters generate power by harvesting children's screams.",
+    "options": ["Monsters, Inc.", "Shrek", "Toy Story", "Inside Out"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 62,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🕶️ 🔫 👽 🏢",
+    "correct_answer": "Men in Black",
+    "clue": "Secret agents monitor extraterrestrial activity on Earth.",
+    "options": ["Independence Day", "The Matrix", "Men in Black", "Ghostbusters"],
+    "categories": ["Movie", "Comedy", "Sci-Fi"]
+  },
+  {
+    "id": 63,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🤠 🐍 🪵 🤠",
+    "correct_answer": "Toy Story 3",
+    "clue": "Andy's old toys are accidentally donated to a daycare.",
+    "options": ["Toy Story 2", "Toy Story 3", "Small Soldiers", "A Bug's Life"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 64,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🦖 🦕 🔲 🏙️",
+    "correct_answer": "Jurassic World",
+    "clue": "A high-tech hybrid dinosaur escapes its luxury park enclosure.",
+    "options": ["Jurassic Park", "The Lost World", "Jurassic World", "King Kong"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 65,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐼 🥢 🦚 🥋",
+    "correct_answer": "Kung Fu Panda 2",
+    "clue": "Po faces Lord Shen, a villain wielding a firework weapon.",
+    "options": ["Kung Fu Panda", "Kung Fu Panda 2", "Mulan", "The Karate Kid"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 66,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🛩️ 🕶️ 🧔 🌊",
+    "correct_answer": "Top Gun: Maverick",
+    "clue": "Maverick returns to train elite graduates for a special mission.",
+    "options": ["Top Gun", "Top Gun: Maverick", "Behind Enemy Lines", "Stealth"],
+    "categories": ["Movie", "Action", "Drama"]
+  },
+  {
+    "id": 67,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🌊 ⛵ 🌀 🐷",
+    "correct_answer": "Moana",
+    "clue": "An adventurous teenager sails out to save her people.",
+    "options": ["Frozen", "Moana", "Lilo & Stitch", "Tangled"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 68,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🧙‍♂️ ⚡ 🐍 🏰",
+    "correct_answer": "Harry Potter and the Chamber of Secrets",
+    "clue": "Harry faces a legendary giant serpent hidden in Hogwarts.",
+    "options": ["Harry Potter", "Harry Potter and the Chamber of Secrets", "Percy Jackson", "Narnia"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 69,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🧅 🫏 🏰 🐉",
+    "correct_answer": "Shrek 2",
+    "clue": "Shrek goes to the kingdom of Far Far Away to meet the parents.",
+    "options": ["Shrek", "Shrek 2", "Puss in Boots", "Enchanted"],
+    "categories": ["Movie", "Animation", "Comedy"]
+  },
+  {
+    "id": 70,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🚢 🦍 🦖 🪓",
+    "correct_answer": "King Kong (1933)",
+    "clue": "The classic, original film introduction of Skull Island's beast.",
+    "options": ["King Kong (1933)", "King Kong (2005)", "Kong: Skull Island", "Mighty Joe Young"],
+    "categories": ["Movie", "Classic", "Adventure"]
+  },
+  {
+    "id": 71,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🌌 🪐 ⚔️ ❄️",
+    "correct_answer": "The Empire Strikes Back",
+    "clue": "Luke trains with Yoda, and Darth Vader reveals a huge secret.",
+    "options": ["Star Wars", "The Empire Strikes Back", "Return of the Jedi", "Dune"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 72,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👑 💍 🪵 🚪",
+    "correct_answer": "The Two Towers",
+    "clue": "The second part of the epic ring quest, featuring Gollum.",
+    "options": ["The Fellowship of the Ring", "The Two Towers", "The Return of the King", "The Hobbit"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 73,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🚪 🦁 👑 ❄️",
+    "correct_answer": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "clue": "Siblings enter a wardrobe and battle a cold White Witch.",
+    "options": ["The Chronicles of Narnia", "Harry Potter", "Peter Pan", "Alice in Wonderland"],
+    "categories": ["Movie", "Fantasy", "Family"]
+  },
+  {
+    "id": 74,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🤡 🎈 🏠 🚲",
+    "correct_answer": "It Chapter Two",
+    "clue": "The grown-up Losers Club returns to Derry to fight Pennywise.",
+    "options": ["It", "It Chapter Two", "Joker", "Poltergeist"],
+    "categories": ["Movie", "Horror", "Thriller"]
+  },
+  {
+    "id": 75,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🦖 🌋 🦕 🪵",
+    "correct_answer": "Jurassic Park III",
+    "clue": "Dr. Alan Grant gets trapped on a dinosaur island while searching for a boy.",
+    "options": ["Jurassic Park", "The Lost World", "Jurassic Park III", "Jurassic World"],
+    "categories": ["Movie", "Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 76,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🚢 ❄️ 🌊 🎻",
+    "correct_answer": "Titanic (1997)",
+    "clue": "The tragic romance set aboard the historic sinking liner.",
+    "options": ["Titanic (1997)", "The Poseidon Adventure", "A Night to Remember", "Cast Away"],
+    "categories": ["Movie", "Romance", "Drama"]
+  },
+  {
+    "id": 77,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🤠 🚀 🧸 🧒",
+    "correct_answer": "Toy Story 4",
+    "clue": "Woody, Buzz, and a homemade toy named Forky go on a road trip.",
+    "options": ["Toy Story 3", "Toy Story 4", "Small Soldiers", "Lightyear"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 78,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🧙‍♂️ ⚡ 🪄 🦅",
+    "correct_answer": "Harry Potter and the Prisoner of Azkaban",
+    "clue": "Harry discovers the truth about his escaped godfather, Sirius Black.",
+    "options": ["Harry Potter", "Harry Potter and the Prisoner of Azkaban", "Fantastic Beasts", "Narnia"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 79,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🏃‍♂️ 🌳 🍫 🎖️",
+    "correct_answer": "Forrest Gump (1994)",
+    "clue": "An innocent man witnesses major moments of American history.",
+    "options": ["Forrest Gump (1994)", "Cast Away", "The Green Mile", "Rain Man"],
+    "categories": ["Movie", "Drama", "Romance"]
+  },
+  {
+    "id": 80,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👻 ghosts 🏙️ 🟩",
+    "correct_answer": "Ghostbusters II",
+    "clue": "The team reunites to fight a river of psychomagnotheric slime.",
+    "options": ["Ghostbusters", "Ghostbusters II", "Beetlejuice", "Casper"],
+    "categories": ["Movie", "Comedy", "Sci-Fi"]
+  },
+  {
+    "id": 81,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🦈 🏊 🌊 🩸",
+    "correct_answer": "Jaws 2",
+    "clue": "Chief Brody suspects another great white shark is hunting near Amity Island.",
+    "options": ["Jaws", "Jaws 2", "The Meg", "Deep Blue Sea"],
+    "categories": ["Movie", "Thriller", "Horror"]
+  },
+  {
+    "id": 82,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👽 🍬 🚲 🌲",
+    "correct_answer": "E.T.",
+    "clue": "A short, lovable alien makes friends with a boy named Elliott.",
+    "options": ["E.T.", "Close Encounters", "Signs", "Super 8"],
+    "categories": ["Movie", "Sci-Fi", "Family"]
+  },
+  {
+    "id": 83,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🐀 🧑‍🍳 🇫🇷 🥖",
+    "correct_answer": "Ratatouille (2007)",
+    "clue": "A rat controls a young kitchen worker to cook premium food.",
+    "options": ["Ratatouille (2007)", "Chef", "The Bear", "Flushed Away"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 84,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 🤵 🍸 🔫 🦅",
+    "correct_answer": "Skyfall",
+    "clue": "James Bond defends MI6 after a devastating cyber-terrorist attack.",
+    "options": ["Casino Royale", "Skyfall", "Quantum of Solace", "Spectre"],
+    "categories": ["Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 85,
+    "type": "emoji_riddle",
+    "difficulty": "Easy",
+    "question": "🧩 Guess the Movie: 👑 💍 🌋 🏰",
+    "correct_answer": "The Return of the King",
+    "clue": "The final chapter of the trilogy where Aragorn claims his crown.",
+    "options": ["The Fellowship of the Ring", "The Two Towers", "The Return of the King", "The Hobbit"],
+    "categories": ["Movie", "Fantasy", "Adventure"]
+  },
+  {
+    "id": 86,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🏹 🍎 🐦 🌳",
+    "correct_answer": "The Hunger Games: Catching Fire",
+    "clue": "Katniss and Peeta are forced back into the arena for the Quarter Quell.",
+    "options": ["The Hunger Games", "The Hunger Games: Catching Fire", "Divergent", "Maze Runner"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 87,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 👑 ⚔️ 🐉 🔥",
+    "correct_answer": "House of the Dragon (Season 1)",
+    "clue": "The beginnings of the Targaryen family civil war in Westeros.",
+    "options": ["Game of Thrones", "House of the Dragon (Season 1)", "The Witcher", "Vikings"],
+    "categories": ["TV Show", "Fantasy", "Drama"]
+  },
+  {
+    "id": 88,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🤫 🐑 👨‍⚕️ 🩸",
+    "correct_answer": "Hannibal",
+    "clue": "The thrilling sequel focusing on Dr. Hannibal Lecter in Italy.",
+    "options": ["The Silence of the Lambs", "Hannibal", "Red Dragon", "Seven"],
+    "categories": ["Movie", "Thriller", "Crime"]
+  },
+  {
+    "id": 89,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🛩️ 🏝️ 🏐 🪵",
+    "correct_answer": "Cast Away (2000)",
+    "clue": "A lone plane-crash survivor spends years stranded on an island.",
+    "options": ["Cast Away (2000)", "The Martian", "Robinson Crusoe", "Lost"],
+    "categories": ["Movie", "Drama", "Adventure"]
+  },
+  {
+    "id": 90,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 😈 👠 ☕ 🏢",
+    "correct_answer": "The Devil Wears Prada (2006)",
+    "clue": "A college graduate lands a tough job at a fashion magazine.",
+    "options": ["The Devil Wears Prada (2006)", "The Intern", "Cruella", "Confessions"],
+    "categories": ["Movie", "Comedy", "Drama"]
+  },
+  {
+    "id": 91,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🐺 📈 💵 🗽",
+    "correct_answer": "The Wolf of Wall Street (2013)",
+    "clue": "The true story of an aggressive, wealthy penny-stock broker.",
+    "options": ["The Wolf of Wall Street (2013)", "Wall Street", "The Big Short", "Boiler Room"],
+    "categories": ["Movie", "Biography", "Drama"]
+  },
+  {
+    "id": 92,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 👨‍🚀 🚀 ⏳ 🪐",
+    "correct_answer": "Interstellar (2014)",
+    "clue": "Pilots seek a habitable planet while experiencing time dilation.",
+    "options": ["Interstellar (2014)", "The Martian", "Gravity", "Ad Astra"],
+    "categories": ["Movie", "Sci-Fi", "Drama"]
+  },
+  {
+    "id": 93,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🥊 🧔 🧼 🏢",
+    "correct_answer": "Fight Club (1999)",
+    "clue": "A man's life changes after meeting an anarchic soap salesman.",
+    "options": ["Fight Club (1999)", "American Psycho", "Se7en", "Memento"],
+    "categories": ["Movie", "Drama", "Thriller"]
+  },
+  {
+    "id": 94,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🎻 🏭 ✡️ 📜",
+    "correct_answer": "Schindler's List (1993)",
+    "clue": "A businessman acts to save his factory workers during WWII.",
+    "options": ["Schindler's List (1993)", "The Pianist", "Life is Beautiful", "The Reader"],
+    "categories": ["Movie", "Drama", "History"]
+  },
+  {
+    "id": 95,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 👁️ 🏰 🦌 🏢",
+    "correct_answer": "Succession (Season 1)",
+    "clue": "The bitter infighting over Logan Roy's media conglomerate begins.",
+    "options": ["Succession (Season 1)", "Billions", "House of Cards", "Yellowstone"],
+    "categories": ["TV Show", "Drama"]
+  },
+  {
+    "id": 96,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: ⏰ 🚗 👨‍🔬 ⚡",
+    "correct_answer": "Back to the Future Part II",
+    "clue": "Marty and Doc travel forward to the year 2015 to fix a problem.",
+    "options": ["Back to the Future", "Back to the Future Part II", "Looper", "The Terminator"],
+    "categories": ["Movie", "Sci-Fi", "Comedy"]
+  },
+  {
+    "id": 97,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 👠 🎃 🏰 🕰️",
+    "correct_answer": "Cinderella (1950)",
+    "clue": "The classic Disney story of a girl whose magic ends at midnight.",
+    "options": ["Cinderella (1950)", "Snow White", "Sleeping Beauty", "Alice in Narnia"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 98,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 🧟 🪓 🏹 🏢",
+    "correct_answer": "The Walking Dead (Season 1)",
+    "clue": "Rick Grimes wakes up from a coma into an apocalyptic wasteland.",
+    "options": ["The Walking Dead (Season 1)", "The Last of Us", "Z Nation", "Black Summer"],
+    "categories": ["TV Show", "Horror", "Drama"]
+  },
+  {
+    "id": 99,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the TV Show: 🟡 🍍 🍔 🌊",
+    "correct_answer": "SpongeBob SquarePants (Season 1)",
+    "clue": "The initial maritime adventures of a sponge working as a fry cook.",
+    "options": ["SpongeBob SquarePants (Season 1)", "The Patrick Star Show", "Fish Hooks", "Flushed Away"],
+    "categories": ["TV Show", "Animation", "Comedy"]
+  },
+  {
+    "id": 100,
+    "type": "emoji_riddle",
+    "difficulty": "Medium",
+    "question": "🧩 Guess the Movie: 🏰 🌹 🫖 🧔",
+    "correct_answer": "Beauty and the Beast (1991)",
+    "clue": "The animated Disney musical following Belle and a monstrous prince.",
+    "options": ["Beauty and the Beast (1991)", "Cinderella", "Aladdin", "Mulan"],
+    "categories": ["Movie", "Animation", "Family"]
+  },
+  {
+    "id": 101,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🎭 🏛️ ⚔️ 🩸",
+    "correct_answer": "Gladiator (2000)",
+    "clue": "Maximus seeks vengeance against a corrupt Roman emperor.",
+    "options": ["Gladiator (2000)", "Troy", "300", "Spartacus"],
+    "categories": ["Movie", "Action", "Drama"]
+  },
+  {
+    "id": 102,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🩰 🦢 🩸 🪞",
+    "correct_answer": "Black Swan (2010)",
+    "clue": "A ballet dancer descends into mental instability for a performance.",
+    "options": ["Black Swan (2010)", "Whiplash", "The Red Shoes", "Perfect Blue"],
+    "categories": ["Movie", "Thriller", "Drama"]
+  },
+  {
+    "id": 103,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🎰 👔 👶 🏢",
+    "correct_answer": "The Hangover (2009)",
+    "clue": "Three groomsmen look for a missing groom after a wild night.",
+    "options": ["The Hangover (2009)", "Old School", "Superbad", "Due Date"],
+    "categories": ["Movie", "Comedy"]
+  },
+  {
+    "id": 104,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: ☕ 🦉 🌲 🪵",
+    "correct_answer": "Twin Peaks (1990)",
+    "clue": "David Lynch's surreal cult mystery surrounding Laura Palmer's fate.",
+    "options": ["Twin Peaks (1990)", "The X-Files", "Fargo", "True Detective"],
+    "categories": ["TV Show", "Mystery", "Drama"]
+  },
+  {
+    "id": 105,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: 🐉 ⚔️ 🏰 🩸",
+    "correct_answer": "House of the Dragon (Season 2)",
+    "clue": "The Dance of the Dragons conflict erupts into full-scale war.",
+    "options": ["Game of Thrones", "House of the Dragon (Season 2)", "The Witcher", "The Lord of the Rings"],
+    "categories": ["TV Show", "Fantasy", "Drama"]
+  },
+  {
+    "id": 106,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: ♟️ 💊 👩‍🦰 🏆",
+    "correct_answer": "The Queen's Gambit (2020)",
+    "clue": "Beth Harmon overcomes personal issues to master competitive chess.",
+    "options": ["The Queen's Gambit (2020)", "The Crown", "The Alienist", "Unorthodox"],
+    "categories": ["TV Show", "Drama"]
+  },
+  {
+    "id": 107,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: 👔 ☕ 📄 🏢",
+    "correct_answer": "The Office (US)",
+    "clue": "The mockumentary comedy set inside a paper company in Scranton.",
+    "options": ["The Office (US)", "Parks and Rec", "30 Rock", "Silicon Valley"],
+    "categories": ["TV Show", "Comedy"]
+  },
+  {
+    "id": 108,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🕶️ 💊 🟥 🏢",
+    "correct_answer": "The Matrix (1999)",
+    "clue": "A hacker wakes up from an artificial world to save mankind.",
+    "options": ["The Matrix (1999)", "Inception", "Dark City", "Equilibrium"],
+    "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 109,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the TV Show: 🚲 🎒 👾 🌲",
+    "correct_answer": "Stranger Things (Season 1)",
+    "clue": "A group of kids searches for their friend who vanished into the Upside Down.",
+    "options": ["Stranger Things (Season 1)", "Dark", "The X-Files", "Twin Peaks"],
+    "categories": ["TV Show", "Sci-Fi", "Horror"]
+  },
+  {
+    "id": 110,
+    "type": "emoji_riddle",
+    "difficulty": "Hard",
+    "question": "🧩 Guess the Movie: 🍌 👁️ 👖 🏢",
+    "correct_answer": "Minions (2015)",
+    "clue": "Stuart, Kevin, and Bob seek a villain boss at a 1968 convention.",
+    "options": ["Minions (2015)", "Despicable Me", "Despicable Me 2", "Megamind"],
+    "categories": ["Movie", "Animation", "Family"]
+  }
+]  
+  ]
