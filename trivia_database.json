@@ -2235,5 +2235,605 @@
     "clue": "Set in a segregated extraterrestrial slum area in Johannesburg.",
     "options": ["District 9", "Chappie", "Elysium", "Edge of Tomorrow"],
     "categories": ["Movie", "Sci-Fi", "Action"]
+  },
+  {
+    "id": 222,
+    "type": "image",
+    "image_url": "images/image_12_years_a_slave.webp",
+    "difficulty": "Medium",
+    "question": "Which historical drama features a man staring blankly ahead in a cotton field?",
+    "correct_answer": "12 Years a Slave",
+    "options": ["12 Years a Slave", "Django Unchained", "The Birth of a Nation", "Glory"],
+    "categories": ["Movie", "Drama", "History"]
+  },
+  {
+    "id": 223,
+    "type": "image",
+    "image_url": "images/image_parasite.webp",
+    "difficulty": "Hard",
+    "question": "Which thriller features black bars over eyes on its iconic theatrical poster?",
+    "correct_answer": "Parasite",
+    "options": ["Parasite", "The Handmaiden", "Shoplifters", "Memories of Murder"],
+    "categories": ["Movie", "Thriller", "Drama", "Comedy"]
+  },
+  {
+    "id": 224,
+    "type": "image",
+    "image_url": "images/image_moonlight.webp",
+    "difficulty": "Hard",
+    "question": "Which Best Picture winner merges three faces of the protagonist on its poster?",
+    "correct_answer": "Moonlight",
+    "options": ["Moonlight", "If Beale Street Could Talk", "Boyhood", "Mudbound"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 225,
+    "type": "image",
+    "image_url": "images/image_birdman.webp",
+    "difficulty": "Medium",
+    "question": "Which comedy-drama features an actor walking through Times Square in underwear?",
+    "correct_answer": "Birdman",
+    "options": ["Birdman", "The Revenant", "Whiplash", "Black Swan"],
+    "categories": ["Movie", "Comedy", "Drama"]
+  },
+  {
+    "id": 226,
+    "type": "image",
+    "image_url": "images/image_the_social_network.webp",
+    "difficulty": "Easy",
+    "question": "Which biographical movie features a poster overlaid with bold text about friends?",
+    "correct_answer": "The Social Network",
+    "options": ["The Social Network", "Steve Jobs", "The Fifth Estate", "Moneyball"],
+    "categories": ["Movie", "Biography", "Drama"]
+  },
+  {
+    "id": 227,
+    "type": "image",
+    "image_url": "images/image_roma.webp",
+    "difficulty": "Medium",
+    "question": "Which black-and-white film shows children and a housekeeper on a rooftop deck?",
+    "correct_answer": "Roma",
+    "options": ["Roma", "Cold War", "The Artist", "Belfast"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 228,
+    "type": "image",
+    "image_url": "images/image_the_kings_speech.webp",
+    "difficulty": "Easy",
+    "question": "Which historical drama features Colin Firth holding a vintage BBC microphone?",
+    "correct_answer": "The King's Speech",
+    "options": ["The King's Speech", "The Queen", "Darkest Hour", "The Iron Lady"],
+    "categories": ["Movie", "Drama", "History", "Biography"]
+  },
+  {
+    "id": 229,
+    "type": "image",
+    "image_url": "images/image_argo.webp",
+    "difficulty": "Medium",
+    "question": "Which political thriller poster stamps 'CLASSIFIED' across Ben Affleck's face?",
+    "correct_answer": "Argo",
+    "options": ["Argo", "Zero Dark Thirty", "Bridge of Spies", "The Munich Crisis"],
+    "categories": ["Movie", "Thriller", "Drama", "History"]
+  },
+  {
+    "id": 230,
+    "type": "image",
+    "image_url": "images/image_a_star_is_born.webp",
+    "difficulty": "Easy",
+    "question": "Which musical drama features Bradley Cooper and Lady Gaga sharing a microphone?",
+    "correct_answer": "A Star is Born",
+    "options": ["A Star is Born", "La La Land", "Bohemian Rhapsody", "Begin Again"],
+    "categories": ["Movie", "Drama", "Musical", "Romance"]
+  },
+  {
+    "id": 231,
+    "type": "image",
+    "image_url": "images/image_annihilation.webp",
+    "difficulty": "Hard",
+    "question": "Which sci-fi horror features a mutated bear with a partially human skull?",
+    "correct_answer": "Annihilation",
+    "options": ["Annihilation", "Ex Machina", "Arrival", "The Thing"],
+    "categories": ["Movie", "Sci-Fi", "Horror", "Mystery"]
+  },
+  {
+    "id": 232,
+    "type": "image",
+    "image_url": "images/image_under_the_skin.webp",
+    "difficulty": "Hard",
+    "question": "Which sci-fi art film shows Scarlett Johansson walking into a pitch-black floor?",
+    "correct_answer": "Under the Skin",
+    "options": ["Under the Skin", "Annihilation", "Ex Machina", "Melancholia"],
+    "categories": ["Movie", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 233,
+    "type": "image",
+    "image_url": "images/image_her.webp",
+    "difficulty": "Easy",
+    "question": "Which sci-fi romance poster shows Joaquin Phoenix against a salmon background?",
+    "correct_answer": "Her",
+    "options": ["Her", "Lost in Translation", "Ex Machina", "Eternal Sunshine of the Spotless Mind"],
+    "categories": ["Movie", "Sci-Fi", "Romance", "Drama"]
+  },
+  {
+    "id": 234,
+    "type": "image",
+    "image_url": "images/image_gravity.webp",
+    "difficulty": "Easy",
+    "question": "Which space survival epic features an astronaut tumbling away from the shuttle?",
+    "correct_answer": "Gravity",
+    "options": ["Gravity", "Interstellar", "The Martian", "Ad Astra"],
+    "categories": ["Movie", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 235,
+    "type": "image",
+    "image_url": "images/image_life_of_pi.webp",
+    "difficulty": "Easy",
+    "question": "Which adventure film features a glowing whale leaping over a tiny lifeboat?",
+    "correct_answer": "Life of Pi",
+    "options": ["Life of Pi", "Avatar", "The Jungle Book", "Cast Away"],
+    "categories": ["Movie", "Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "id": 236,
+    "type": "image",
+    "image_url": "images/image_get_out.webp",
+    "difficulty": "Easy",
+    "question": "Which horror hit shows Daniel Kaluuya crying with eyes wide-open in a chair?",
+    "correct_answer": "Get Out",
+    "options": ["Get Out", "Us", "Nope", "The Purge"],
+    "categories": ["Movie", "Horror", "Mystery", "Thriller"]
+  },
+  {
+    "id": 237,
+    "type": "image",
+    "image_url": "images/image_black_swan.webp",
+    "difficulty": "Medium",
+    "question": "Which thriller poster features a hairline fracture splitting a dancer's face?",
+    "correct_answer": "Black Swan",
+    "options": ["Black Swan", "Whiplash", "The Neon Demon", "Suspiria"],
+    "categories": ["Movie", "Drama", "Thriller"]
+  },
+  {
+    "id": 238,
+    "type": "image",
+    "image_url": "images/image_the_babadook.webp",
+    "difficulty": "Hard",
+    "question": "Which horror film features a pop-up book showing a monster wearing a top hat?",
+    "correct_answer": "The Babadook",
+    "options": ["The Babadook", "It Follows", "Hereditary", "The Conjuring"],
+    "categories": ["Movie", "Horror", "Drama"]
+  },
+  {
+    "id": 239,
+    "type": "image",
+    "image_url": "images/image_hereditary.webp",
+    "difficulty": "Hard",
+    "question": "Which horror movie features a young girl building items out of a dead bird?",
+    "correct_answer": "Hereditary",
+    "options": ["Hereditary", "Midsommar", "The Witch", "The Conjuring"],
+    "categories": ["Movie", "Horror", "Mystery", "Drama"]
+  },
+  {
+    "id": 240,
+    "type": "image",
+    "image_url": "images/image_midsommar.webp",
+    "difficulty": "Hard",
+    "question": "Which folk horror film shows a crying woman wearing a giant crown of flowers?",
+    "correct_answer": "Midsommar",
+    "options": ["Midsommar", "Hereditary", "The Wicker Man", "The Witch"],
+    "categories": ["Movie", "Horror", "Mystery", "Drama"]
+  },
+  {
+    "id": 241,
+    "type": "image",
+    "image_url": "images/image_the_witch.webp",
+    "difficulty": "Hard",
+    "question": "Which folk horror poster features a black goat alongside text about living?",
+    "correct_answer": "The Witch",
+    "options": ["The Witch", "The Lighthouse", "Hereditary", "Midsommar"],
+    "categories": ["Movie", "Horror", "Mystery", "Drama"]
+  },
+  {
+    "id": 242,
+    "type": "image",
+    "image_url": "images/image_a_quiet_place.webp",
+    "difficulty": "Medium",
+    "question": "Which monster movie shows Emily Blunt hiding silently inside an empty bathtub?",
+    "correct_answer": "A Quiet Place",
+    "options": ["A Quiet Place", "Bird Box", "Don't Breathe", "10 Cloverfield Lane"],
+    "categories": ["Movie", "Horror", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": 243,
+    "type": "image",
+    "image_url": "images/image_the_lighthouse.webp",
+    "difficulty": "Medium",
+    "question": "Which monochrome film shows Willem Dafoe delivering a curse at a dinner table?",
+    "correct_answer": "The Lighthouse",
+    "options": ["The Lighthouse", "The Witch", "The Northman", "Shutter Island"],
+    "categories": ["Movie", "Drama", "Horror", "Mystery"]
+  },
+  {
+    "id": 244,
+    "type": "image",
+    "image_url": "images/image_the_tree_of_life.webp",
+    "difficulty": "Hard",
+    "question": "Which masterpiece poster features a multi-photo mosaic grid focusing on a foot?",
+    "correct_answer": "The Tree of Life",
+    "options": ["The Tree of Life", "To the Wonder", "Knight of Cups", "Boyhood"],
+    "categories": ["Movie", "Drama", "Fantasy"]
+  },
+  {
+    "id": 245,
+    "type": "image",
+    "image_url": "images/image_inside_llewyn_davis.webp",
+    "difficulty": "Hard",
+    "question": "Which drama features Oscar Isaac walking down a cold street with an orange cat?",
+    "correct_answer": "Inside Llewyn Davis",
+    "options": ["Inside Llewyn Davis", "O Brother, Where Art Thou?", "A Serious Man", "La La Land"],
+    "categories": ["Movie", "Drama", "Music"]
+  },
+  {
+    "id": 246,
+    "type": "image",
+    "image_url": "images/image_the_master.webp",
+    "difficulty": "Hard",
+    "question": "Which drama features a blue wine bottle layout over Joaquin Phoenix's face?",
+    "correct_answer": "The Master",
+    "options": ["The Master", "Phantom Thread", "There Will Be Blood", "Inherent Vice"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 247,
+    "type": "image",
+    "image_url": "images/image_phantom_thread.webp",
+    "difficulty": "Hard",
+    "question": "Which elegant period drama features Daniel Day-Lewis pinning a satin dress?",
+    "correct_answer": "Phantom Thread",
+    "options": ["Phantom Thread", "The Master", "The Favourite", "The King's Speech"],
+    "categories": ["Movie", "Drama", "Romance"]
+  },
+  {
+    "id": 248,
+    "type": "image",
+    "image_url": "images/image_boyhood.webp",
+    "difficulty": "Medium",
+    "question": "Which film features a famous poster image of a boy lying flat on green grass?",
+    "correct_answer": "Boyhood",
+    "options": ["Boyhood", "The Tree of Life", "Moonlight", "Lady Bird"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 249,
+    "type": "image",
+    "image_url": "images/image_the_florida_project.webp",
+    "difficulty": "Medium",
+    "question": "Which drama features young kids running past a bright purple motel building?",
+    "correct_answer": "The Florida Project",
+    "options": ["The Florida Project", "Tangerine", "American Honey", "Moonlight"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 250,
+    "type": "image",
+    "image_url": "images/image_first_reformed.webp",
+    "difficulty": "Hard",
+    "question": "Which drama shows Ethan Hawke as a lonely pastor inside a white timber church?",
+    "correct_answer": "First Reformed",
+    "options": ["First Reformed", "The Master", "Silence", "Calvary"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 251,
+    "type": "image",
+    "image_url": "images/image_carol.webp",
+    "difficulty": "Hard",
+    "question": "Which romance shows two women glancing at each other through a taxi window?",
+    "correct_answer": "Carol",
+    "options": ["Carol", "Portrait of a Lady on Fire", "Brooklyn", "The Danish Girl"],
+    "categories": ["Movie", "Drama", "Romance"]
+  },
+  {
+    "id": 252,
+    "type": "image",
+    "image_url": "images/image_manchester_by_the_sea.webp",
+    "difficulty": "Medium",
+    "question": "Which emotional drama shows Casey Affleck standing alone on a fishing boat?",
+    "correct_answer": "Manchester by the Sea",
+    "options": ["Manchester by the Sea", "Beautiful Boy", "Room", "The Florida Project"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 253,
+    "type": "image",
+    "image_url": "images/image_room.webp",
+    "difficulty": "Medium",
+    "question": "Which drama features Brie Larson and a young boy looking up at a skylight?",
+    "correct_answer": "Room",
+    "options": ["Room", "Manchester by the Sea", "The Florida Project", "Prisoners"],
+    "categories": ["Movie", "Drama"]
+  },
+  {
+    "id": 254,
+    "type": "image",
+    "image_url": "images/image_call_me_by_your_name.webp",
+    "difficulty": "Hard",
+    "question": "Which coming-of-age romance features a poster of two men looking upward?",
+    "correct_answer": "Call Me by Your Name",
+    "options": ["Call Me by Your Name", "Portrait of a Lady on Fire", "Carol", "Lady Bird"],
+    "categories": ["Movie", "Romance", "Drama"]
+  },
+  {
+    "id": 255,
+    "type": "image",
+    "image_url": "images/image_the_favourite.webp",
+    "difficulty": "Hard",
+    "question": "Which historical dark comedy features Olivia Colman surrounded by pet rabbits?",
+    "correct_answer": "The Favourite",
+    "options": ["The Favourite", "Marie Antoinette", "Portrait of a Lady on Fire", "The King's Speech"],
+    "categories": ["Movie", "Comedy", "Drama", "History"]
+  },
+  {
+    "id": 256,
+    "type": "image",
+    "image_url": "images/image_portrait_of_a_lady_on_fire.webp",
+    "difficulty": "Medium",
+    "question": "Which French romance shows a woman walking on a beach as her dress catches fire?",
+    "correct_answer": "Portrait of a Lady on Fire",
+    "options": ["Portrait of a Lady on Fire", "Carol", "The Favourite", "Amélie"],
+    "categories": ["Movie", "Drama", "Romance", "History"]
+  },
+  {
+    "id": 257,
+    "type": "image",
+    "image_url": "images/image_brooklyn.webp",
+    "difficulty": "Hard",
+    "question": "Which romantic drama features Saoirse Ronan in a green dress on an ocean liner?",
+    "correct_answer": "Brooklyn",
+    "options": ["Brooklyn", "Carol", "Lady Bird", "Little Women"],
+    "categories": ["Movie", "Drama", "Romance"]
+  },
+  {
+    "id": 258,
+    "type": "image",
+    "image_url": "images/image_the_big_short.webp",
+    "difficulty": "Medium",
+    "question": "Which financial movie uses a poster dividing its lead stars into four blocks?",
+    "correct_answer": "The Big Short",
+    "options": ["The Big Short", "The Wolf of Wall Street", "Margin Call", "Moneyball"],
+    "categories": ["Movie", "Comedy", "Drama", "Biography"]
+  },
+  {
+    "id": 259,
+    "type": "image",
+    "image_url": "images/image_booksmart.webp",
+    "difficulty": "Hard",
+    "question": "Which comedy features two leading actresses posing in blue graduation jumpsuits?",
+    "correct_answer": "Booksmart",
+    "options": ["Booksmart", "Lady Bird", "Superbad", "Edge of Seventeen"],
+    "categories": ["Movie", "Comedy"]
+  },
+  {
+    "id": 260,
+    "type": "image",
+    "image_url": "images/image_lady_bird.webp",
+    "difficulty": "Medium",
+    "question": "Which coming-of-age film shows Saoirse Ronan with pink hair on a car hood?",
+    "correct_answer": "Lady Bird",
+    "options": ["Lady Bird", "Booksmart", "Little Women", "Frances Ha"],
+    "categories": ["Movie", "Comedy", "Drama"]
+  },
+  {
+    "id": 261,
+    "type": "image",
+    "image_url": "images/image_the_nice_guys.webp",
+    "difficulty": "Hard",
+    "question": "Which buddy-cop comedy poster features Ryan Gosling in a blue suit jacket?",
+    "correct_answer": "The Nice Guys",
+    "options": ["The Nice Guys", "Inherent Vice", "Kiss Kiss Bang Bang", "In Bruges"],
+    "categories": ["Movie", "Comedy", "Action", "Crime"]
+  },
+  {
+    "id": 262,
+    "type": "image",
+    "image_url": "images/image_once_upon_a_time_in_hollywood.webp",
+    "difficulty": "Easy",
+    "question": "Which Tarantino film shows Leonardo DiCaprio and Brad Pitt by a yellow car?",
+    "correct_answer": "Once Upon a Time in Hollywood",
+    "options": ["Once Upon a Time in Hollywood", "The Hateful Eight", "Inglourious Basterds", "La La Land"],
+    "categories": ["Movie", "Comedy", "Drama"]
+  },
+  {
+    "id": 263,
+    "type": "image",
+    "image_url": "images/image_john_wick.webp",
+    "difficulty": "Easy",
+    "question": "Which action hit features a movie poster with dozens of handgun barrels?",
+    "correct_answer": "John Wick",
+    "options": ["John Wick", "The Matrix", "Nobody", "Atomic Blonde"],
+    "categories": ["Movie", "Action", "Thriller"]
+  },
+  {
+    "id": 264,
+    "type": "image",
+    "image_url": "images/image_sicario.webp",
+    "difficulty": "Hard",
+    "question": "Which crime drama features a silhouetted column of tactical soldiers?",
+    "correct_answer": "Sicario",
+    "options": ["Sicario", "Prisoners", "Zero Dark Thirty", "No Country for Old Men"],
+    "categories": ["Movie", "Action", "Crime", "Thriller"]
+  },
+  {
+    "id": 265,
+    "type": "image",
+    "image_url": "images/image_nightcrawler.webp",
+    "difficulty": "Hard",
+    "question": "Which thriller shows Jake Gyllenhaal wearing large aviator sunglasses?",
+    "correct_answer": "Nightcrawler",
+    "options": ["Nightcrawler", "Drive", "Zodiac", "Prisoners"],
+    "categories": ["Movie", "Crime", "Thriller", "Drama"]
+  },
+  {
+    "id": 266,
+    "type": "image",
+    "image_url": "images/image_gone_girl.webp",
+    "difficulty": "Hard",
+    "question": "Which mystery thriller poster shows Ben Affleck looking over a misty river?",
+    "correct_answer": "Gone Girl",
+    "options": ["Gone Girl", "Prisoners", "The Girl with the Dragon Tattoo", "Zodiac"],
+    "categories": ["Movie", "Mystery", "Thriller", "Drama"]
+  },
+  {
+    "id": 267,
+    "type": "image",
+    "image_url": "images/image_prisoners.webp",
+    "difficulty": "Hard",
+    "question": "Which dark mystery thriller features a poster design shaped like a maze?",
+    "correct_answer": "Prisoners",
+    "options": ["Prisoners", "Zodiac", "Gone Girl", "Sicario"],
+    "categories": ["Movie", "Mystery", "Thriller", "Drama"]
+  },
+  {
+    "id": 268,
+    "type": "image",
+    "image_url": "images/image_toy_story.webp",
+    "difficulty": "Easy",
+    "question": "Which animation features a cowboy doll and a space ranger flying together?",
+    "correct_answer": "Toy Story",
+    "options": ["Toy Story", "A Bug's Life", "Monsters, Inc.", "Inside Out"],
+    "categories": ["Movie", "Animation", "Family", "Comedy"]
+  },
+  {
+    "id": 269,
+    "type": "image",
+    "image_url": "images/image_inside_out.webp",
+    "difficulty": "Easy",
+    "question": "Which Pixar film highlights five colorful, personified emotion characters?",
+    "correct_answer": "Inside Out",
+    "options": ["Inside Out", "Soul", "Coco", "Zootopia"],
+    "categories": ["Movie", "Animation", "Family", "Comedy"]
+  },
+  {
+    "id": 270,
+    "type": "image",
+    "image_url": "images/image_coco.webp",
+    "difficulty": "Easy",
+    "question": "Which animation shows a young boy holding a guitar with a skull design?",
+    "correct_answer": "Coco",
+    "options": ["Coco", "The Book of Life", "Soul", "Inside Out"],
+    "categories": ["Movie", "Animation", "Family", "Fantasy"]
+  },
+  {
+    "id": 271,
+    "type": "image",
+    "image_url": "images/image_how_to_train_your_dragon.webp",
+    "difficulty": "Easy",
+    "question": "Which fantasy animation shows a boy reaching to touch a sleek black dragon?",
+    "correct_answer": "How to Train Your Dragon",
+    "options": ["How to Train Your Dragon", "Kung Fu Panda", "Shrek", "Brave"],
+    "categories": ["Movie", "Animation", "Family", "Fantasy"]
+  },
+  {
+    "id": 272,
+    "type": "image",
+    "image_url": "images/image_zootopia.webp",
+    "difficulty": "Easy",
+    "question": "Which animated hit features a DMV completely operated by slow-moving sloths?",
+    "correct_answer": "Zootopia",
+    "options": ["Zootopia", "Sing", "The Secret Life of Pets", "Inside Out"],
+    "categories": ["Movie", "Animation", "Family", "Comedy"]
+  },
+  {
+    "id": 273,
+    "type": "image",
+    "image_url": "images/image_lincoln.webp",
+    "difficulty": "Hard",
+    "question": "Which epic uses a poster showing a side profile look at Daniel Day-Lewis?",
+    "correct_answer": "Lincoln",
+    "options": ["Lincoln", "Darkest Hour", "Bridge of Spies", "The King's Speech"],
+    "categories": ["Movie", "Drama", "History", "Biography"]
+  },
+  {
+    "id": 274,
+    "type": "image",
+    "image_url": "images/image_the_revenant.webp",
+    "difficulty": "Hard",
+    "question": "Which survival epic features Leonardo DiCaprio's rugged face under a hood?",
+    "correct_answer": "The Revenant",
+    "options": ["The Revenant", "Birdman", "The Hateful Eight", "Django Unchained"],
+    "categories": ["Movie", "Adventure", "Drama"]
+  },
+  {
+    "id": 275,
+    "type": "image",
+    "image_url": "images/image_black_panther.webp",
+    "difficulty": "Easy",
+    "question": "Which superhero film shows a warrior sitting on a throne in a hidden nation?",
+    "correct_answer": "Black Panther",
+    "options": ["Black Panther", "Avengers: Infinity War", "Captain America: Civil War", "Logan"],
+    "categories": ["Movie", "Action", "Sci-Fi"]
+  },
+  {
+    "id": 276,
+    "type": "image",
+    "image_url": "images/image_captain_america_winter_soldier.webp",
+    "difficulty": "Easy",
+    "question": "Which sequel shows Captain America with his back turned, holding a shield?",
+    "correct_answer": "Captain America: Winter Soldier",
+    "options": ["Captain America: Winter Soldier", "The Avengers", "Captain America: Civil War", "Iron Man 3"],
+    "categories": ["Movie", "Action", "Sci-Fi"]
+  },
+  {
+    "id": 277,
+    "type": "image",
+    "image_url": "images/image_logan.webp",
+    "difficulty": "Hard",
+    "question": "Which gritty film shows a child's hand holding a scarred hand with claws?",
+    "correct_answer": "Logan",
+    "options": ["Logan", "X-Men: Days of Future Past", "The Wolverine", "Deadpool"],
+    "categories": ["Movie", "Action", "Sci-Fi", "Drama"]
+  },
+  {
+    "id": 278,
+    "type": "image",
+    "image_url": "images/image_the_hateful_eight.webp",
+    "difficulty": "Medium",
+    "question": "Which western features a poster showing silhouetted figures in a blizzard?",
+    "correct_answer": "The Hateful Eight",
+    "options": ["The Hateful Eight", "Django Unchained", "True Grit", "The Revenant"],
+    "categories": ["Movie", "Western", "Mystery", "Drama"]
+  },
+  {
+    "id": 279,
+    "type": "image",
+    "image_url": "images/image_good_time.webp",
+    "difficulty": "Hard",
+    "question": "Which crime thriller uses a poster showing Robert Pattinson under neon lights?",
+    "correct_answer": "Good Time",
+    "options": ["Good Time", "Uncut Gems", "Drive", "Nightcrawler"],
+    "categories": ["Movie", "Crime", "Thriller", "Drama"]
+  },
+  {
+    "id": 280,
+    "type": "image",
+    "image_url": "images/image_uncut_gems.webp",
+    "difficulty": "Hard",
+    "question": "Which thriller shows Adam Sandler looking through a jewelry store window?",
+    "correct_answer": "Uncut Gems",
+    "options": ["Uncut Gems", "Good Time", "The Wolf of Wall Street", "The Big Short"],
+    "categories": ["Movie", "Crime", "Thriller", "Drama"]
+  },
+  {
+    "id": 281,
+    "type": "image",
+    "image_url": "images/image_widows.webp",
+    "difficulty": "Hard",
+    "question": "Which heist thriller uses a dark poster dividing four women into panels?",
+    "correct_answer": "Widows",
+    "options": ["Widows", "12 Years a Slave", "Ocean's 8", "Sicario"],
+    "categories": ["Movie", "Crime", "Thriller", "Drama"]
   }
 ]
