@@ -2050,7 +2050,7 @@
   },
   {
     "id": 205,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_mad_max_storm.webp",
     "difficulty": "Hard",
     "question": "A massive armada of heavily modified vehicles accelerates directly into a towering, electric sandstorm in which 2015 action masterpiece?",
@@ -2061,7 +2061,7 @@
   },
   {
     "id": 206,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_exorcist_streetlamp.webp",
     "difficulty": "Hard",
     "question": "A lone priest arrives at night and stands under a glowing streetlamp in the fog outside a dark house in which legendary 1973 supernatural horror film?",
@@ -2072,7 +2072,7 @@
   },
  {
     "id": 207,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_gladiator_colosseum.webp",
     "difficulty": "Easy",
     "question": "Which historical epic features a betrayed general spinning around to reveal his true identity to a corrupt emperor in the Colosseum?",
@@ -2084,7 +2084,7 @@
 
   {
     "id": 208,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_unforgiven_bar.webp",
     "difficulty": "Medium",
     "question": "An aging, vengeful gunslinger walks into a dimly lit saloon with a shotgun to confront a corrupt town sheriff in which legendary 1992 Western?",
@@ -2095,7 +2095,7 @@
   },
   {
     "id": 209,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_whiplash_slap.webp",
     "difficulty": "Medium",
     "question": "An aggressive jazz band instructor slaps a student across the face during a rehearsal to check if he is 'rushing or dragging' in which 2014 drama?",
@@ -2106,7 +2106,7 @@
   },
   {
     "id": 210,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_jaws_boat.webp",
     "difficulty": "Easy",
     "question": "Three men face off against a giant man-eating great white shark on a sinking fishing boat in which classic 1975 Steven Spielberg thriller?",
@@ -2117,7 +2117,7 @@
   },
   {
     "id": 211,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_alien_dinner.webp",
     "difficulty": "Easy",
     "question": "A normal crew dinner inside a mining spaceship suddenly transforms into a chest-bursting biological alien nightmare in which 1979 classic?",
@@ -2128,7 +2128,7 @@
   },
   {
     "id": 212,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_shawshank_escape.webp",
     "difficulty": "Easy",
     "question": "An escaped prisoner stands under a heavy rainstorm with his arms raised to the sky in victory in which critically acclaimed 1994 prison drama?",
@@ -2139,7 +2139,7 @@
   },
   {
     "id": 213,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_no_country_coin.webp",
     "difficulty": "Hard",
     "question": "A quiet, terrifying hitman forces a nervous gas station store clerk to call a high-stakes coin toss for his life in which 2007 neo-western thriller?",
@@ -2150,7 +2150,7 @@
   },
   {
     "id": 214,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_fargo_woodchipper.webp",
     "difficulty": "Hard",
     "question": "A pregnant state trooper discovers a kidnapper disposing of a body inside an active industrial woodchipper in which acclaimed 1996 dark comedy crime thriller?",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 215,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_amadeus_opera.webp",
     "difficulty": "Hard",
     "question": "An eccentric, hysterical musical genius conducts an operatic masterpiece while a jealous rival watches from the balcony shadows in which period drama?",
@@ -2172,7 +2172,7 @@
   },
   {
     "id": 216,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_amelie_cafe.webp",
     "difficulty": "Medium",
     "question": "A whimsical, imaginative young waitress secretly alters the lives of the eccentric patrons at a small Parisian cafe in which French romantic comedy?",
@@ -2183,7 +2183,7 @@
   },
   {
     "id": 217,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_green_mile_flies.webp",
     "difficulty": "Medium",
     "question": "A gentle, towering death row inmate grips a prison guard's arm and miraculously cures his ailment by exhaling a swarm of dark flies in which 1999 drama?",
@@ -2194,7 +2194,7 @@
   },
   {
     "id": 218,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_ex_machina_dance.webp",
     "difficulty": "Hard",
     "question": "An eccentric tech billionaire suddenly executes a highly synchronized, strange disco dance routine with his android assistant in which 2014 AI sci-fi thriller?",
@@ -2205,7 +2205,7 @@
   },
   {
     "id": 219,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_casablanca_plane.webp",
     "difficulty": "Easy",
     "question": "An American expatriate stands on a foggy airstrip bidding a heartbreaking, noble farewell to his true love in which legendary 1942 romantic classic?",
@@ -2216,7 +2216,7 @@
   },
   {
     "id": 220,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_memento_polaroid.webp",
     "difficulty": "Hard",
     "question": "A developed Polaroid photograph of a dead body slowly fades backward into complete blankness in the opening sequence of which short-term memory mystery?",
@@ -2227,7 +2227,7 @@
   },
   {
     "id": 221,
-    "type": "scene",
+    "type": "image",
     "image_url": "images/scene_district9_mech.webp",
     "difficulty": "Medium",
     "question": "A human bureaucrat slowly mutating into an alien life form utilizes a heavy biomechanical mech suit to protect his alien friend in which 2009 sci-fi hit?",
